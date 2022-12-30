@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qian Xinyuan (钱馨园)"
-description              : "Associate Professor at University of Science and Technology, Beijing, China"
+title                    : "Qian Xinyuan <br> (钱馨园)"
+description              : "<br> Associate Professor at University of Science and Technology, Beijing, China"
 repository               : "catherine-qian/qianxinyuan.github.io"
 google_scholar_stats_use_cdn : true
 
