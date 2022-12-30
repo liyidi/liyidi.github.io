@@ -17,16 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD candidate student in College of Intelligence and Computing in Tianjin University, supervised by Prof. [Longbiao Wang](http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html) and Prof. [Jianwu Dang](http://www.jaist.ac.jp/~jdang/index-e.htm). My research topic is Speech Separation Based on Deep Learning in Open Complex Environment. During my PhD period, I also worked as a research assistant in NTU and NUS in Singapore from 2019 to 2022, supervised by Prof. [Eng Siong Chng](https://personal.ntu.edu.sg/aseschng/default.html) and Prof. [Haizhou Li](https://colips.org/~eleliha/). Prior to that, I received my Master’s Degree from Tianjin University under the supervision of Prof. [Di Jin](https://scholar.google.com/citations?hl=zh-CN&user=Q8MRRecAAAAJ) and Prof. [Liang Yang](https://yangliang.github.io/) in 2017, and my master's research topic is Socical Network or Community Detection.
+I am currently an Associate Professor at University of Science and Technology Beijing (USTB). Prior to that I worked as a research fellow at National University of Singapore (NUS), Singapore, supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/). I received my Ph.D. degree from Queen Mary, University of London (QMUL), U.K., under the supervision of Prof. [Andrea Cavallaro](http://www.eecs.qmul.ac.uk/~andrea/). During my Ph.D. degree, I went to Fondazione Bruno Kessler (FBK), Trento, Italy, as a research assistant, supervised by Dr. [Maurizio Omologo](https://www.amazon.science/author/maurizio-omologo) and Dr. [Alessio Brutti](https://ict.fbk.eu/people/detail/alessio-brutti-fbk-speech-processing/). I received my B.Eng. and M.Sc. degrees both from the University of Edinburgh, U.K., supervised by Prof. [James Hopgood](https://www.eng.ed.ac.uk/about/people/dr-james-r-hopgood).
 
-My research interest includes speech processing, speech separation and social network analysis. I have published more than 10 papers at the top international AI conferences such as IJCAI, ICASSP, INTERSPEECH.
+My research interest includes speech processing and audio-visual human robot interaction. I have published more than 20 papers at the top international AI journals/conferences such as TMM, TASLP, TII, ACM MM, ICRA, ICASSP, INTERSPEECH.
 
+
+🔥 News
+
+🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at qianxy@ustb.edu.cn for more details.
 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Speaker recognition and verification; Speech separation and extraction</td>
-    <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp;&nbsp; Face recognition; Face detection; Lip reading； Gesture synthesis</td>
+    <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp;&nbsp; Face recognition; Face detection; Lip reading；Gesture synthesis</td>
   </tr>
   <tr style="border: none;">
     <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection; Speaker Localization and Tracking</td>
