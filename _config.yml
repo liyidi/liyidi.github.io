@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qian Xinyuan  <br> (钱馨园)"
   avatar           : "images/qianxinyuan2.jpeg"
-  bio              : "[Curriculum Vitae]"
+  # bio              : "[Curriculum Vitae]"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
