@@ -24,7 +24,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 🔥 News
 
 🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at qianxy@ustb.edu.cn for more details.
-开展以深度学习为核心的语音信号处理、多模态人机交互研究，学生可以根据兴趣自由选择，欢迎对研究感兴趣的同学联系我~
+开展以深度学习为核心的<font color="red"> 语音信号处理、多模态人机交互研究 </font>，学生可以根据兴趣自由选择，欢迎对研究感兴趣的同学联系我~
 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
