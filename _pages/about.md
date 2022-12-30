@@ -21,11 +21,31 @@ I am a PhD candidate student in College of Intelligence and Computing in Tianjin
 
 My research interest includes speech processing, speech separation and social network analysis. I have published more than 10 papers at the top international AI conferences such as IJCAI, ICASSP, INTERSPEECH.
 
+
+# 📜 Research Area
+<table style="border-collapse: collapse; border: none;
+  <tr style="border: none;">
+    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Speaker recognition and verification; Speech extraction and separation </td>
+    <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp;&nbsp; Face recognition; Face detection; Lip reading; Gesture synthesis</td>H
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection; Speaker localization and tracking </td>
+    <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>&nbsp;&nbsp; Self-supervised speech processing </td>
+  </tr>
+</table>
+
 # 💻 Research Experiences
-- *2022.07 - Present*, Research Asistant, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
-- *2020.04 - 2022.07*, Research Asistant, National University of Singapore (NUS), Singapore.
-- *2019.10 - 2020.04*, Research Asistant, Nanyang Technological University (NTU), Singapore.
-- *2018.09 - 2019.06*, Machine Learning Engineer, AI Lab of Didi Chuxing Company (DiDi), Beijing, China.
+- *2022.10 - Present*, Associate Professor, University of Science and Technology of Beijing (USTB), Beijing, China.
+- *2022.03 - 2022.09*, Visiting Scholar, Chinese University of Hong Kong (CUHKSZ), Shenzhen, China.
+- *2020.02 - 2022.02*, Research Fellow, National University of Singapore (NUS), Singapore.
+- *2017.04 - 2018.12*, Research Asistant, Fondazione Bruno Kessler (FBK), Trento, Italy.
+- *2014.06 - 2014.08*, Research Asistant, Heriot-Watt University (HWU), Edinburgh, United Kingdom.
+
+# 📖 Educations
+- *2015.11 - 2019.11*, Ph.D. in Computer Scicence, Queen Mary, University of London (QMUL), London, U.K. 
+- *2014.08 - 2015.08*, M.Sc. in Signal Processing and Communications, University of Edinburgh (UoE), U.K.  (Distinction) 
+- *2012.09 - 2014.06*, B.Eng. in Electronics and Electrical Engineering, University of Edinburgh (UoE), U.K. (First Class Honors) 
+- *2010.09 - 2012.06*, B.Eng. in Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China. (Top: 3%)
 
 # 📝 Publications 
 
