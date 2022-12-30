@@ -15,11 +15,12 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Work Experiences"
-    url: "/#-work-experiences"
 
   - title: "Certifications and Awards"
     url: "/#-certifications-and-awards"
 
-  - title: "Service Experiences"
-    url: "/#-leadership-and-service-experiences"
+  - title: "Projects"
+    url: "/#-projects"
+
+  - title: "Reviewer"
+    url: "/#-reviewer"
