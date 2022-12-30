@@ -270,7 +270,6 @@ GEM
 
 PLATFORMS
   universal-darwin-19
-  universal-darwin-21
   x86_64-linux
 
 DEPENDENCIES
@@ -280,4 +279,4 @@ DEPENDENCIES
   jekyll-sitemap
 
 BUNDLED WITH
-   2.3.24
+   2.2.19

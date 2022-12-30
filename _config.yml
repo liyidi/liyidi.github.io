@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ge Meng"
-description              : "Research Asistant at the Chinese University of Hong Kong, Shenzhen"
-repository               : "catherine-qian/catherine-qian.github.io"
+title                    : "Qian Xinyuan (钱馨园)"
+description              : "Associate Professor at University of Science and Technology, Beijing, China"
+repository               : "catherine-qian/qianxinyuan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "GE MENG"
-  avatar           : "images/gemeng.png"
+  name             : "Qian Xinyuan  <br> (钱馨园)"
+  avatar           : "images/qianxinyuan2.jpeg"
   bio              : "[Curriculum Vitae]"
-  location         : "Shenzhen, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.sg/citations?user=Ody4GF0AAAAJ&hl=en"
-  email            : "gemeng@tju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=lherf_kAAAAJ&hl=en"
+  email            : "qianxy@ustb.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ACoAAC42AT0BVyLL7KKnrxEx22RUL0iREXigxB0"
+  linkedin         : "https://www.linkedin.com/in/xinyuan-qian-019a99a1/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "627545197?spm_id_from=333.337.0.0"
+  youtube          :  
   wikipedia        :
 
 
