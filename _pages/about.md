@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor at University of Science and Technology Beijing (USTB). Prior to that I worked as a research fellow at National University of Singapore (NUS), Singapore, supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/). I received my Ph.D. degree from Queen Mary, University of London (QMUL), U.K., under the supervision of Prof. [Andrea Cavallaro](http://www.eecs.qmul.ac.uk/~andrea/). During my Ph.D. degree, I went to Fondazione Bruno Kessler [(FBK)](https://www.fbk.eu/en/)), Trento, Italy, as a research assistant, supervised by Dr. [Maurizio Omologo](https://www.amazon.science/author/maurizio-omologo) and Dr. [Alessio Brutti](https://ict.fbk.eu/people/detail/alessio-brutti-fbk-speech-processing/). I received my B.Eng. and M.Sc. degrees both from the University of Edinburgh, U.K., supervised by Prof. [James Hopgood](https://www.eng.ed.ac.uk/about/people/dr-james-r-hopgood).
+I am currently an Associate Professor at University of Science and Technology Beijing (USTB). Prior to that I worked as a research fellow at National University of Singapore (NUS), Singapore, supervised by Prof. [Haizhou Li](https://colips.org/~eleliha/). I received my Ph.D. degree from Queen Mary, University of London (QMUL), U.K., under the supervision of Prof. [Andrea Cavallaro](http://www.eecs.qmul.ac.uk/~andrea/). During my Ph.D. degree, I went to Fondazione Bruno Kessler [(FBK)](https://www.fbk.eu/en/), Trento, Italy, as a research assistant, supervised by Dr. [Maurizio Omologo](https://www.amazon.science/author/maurizio-omologo) and Dr. [Alessio Brutti](https://ict.fbk.eu/people/detail/alessio-brutti-fbk-speech-processing/). I received my B.Eng. and M.Sc. degrees both from the University of Edinburgh, U.K., supervised by Prof. [James Hopgood](https://www.eng.ed.ac.uk/about/people/dr-james-r-hopgood).
 
 My research interest mainly focuses on audio-visual fusion, includes speech processing, speaker localization and tracking, active speaker detection, gesture synthesis, automatic speech recognition. I have published more than 20 papers at the top-tiered international AI journals/conferences such as TMM, TASLP, TII, ACM MM, ICRA ICASSP, INTERSPEECH.
 
 🔥 News
 
 🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at qianxy@ustb.edu.cn for more details.
+开展以深度学习为核心的语音信号处理、多模态人机交互研究，学生可以根据兴趣自由选择，欢迎对研究感兴趣的同学联系我~
 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
@@ -86,7 +87,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - Shoufeng Lin<sup>`#`</sup>, **Xinyuan Qian<sup>`#`</sup>**, [Audio-Visual Multi-Speaker Tracking Based on the GLMB Framework](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/1969.pdf), **INTERSPEECH**, 2021.
 
 -- **2019 and Before** --
-- **Xinyuan Qian**, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [Multi-speaker tracking from an audio–visual sensing device](https://ieeexplore.ieee.org/document/8656587), **TMM**,，2019.
+- **Xinyuan Qian**, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [Multi-speaker tracking from an audio–visual sensing device](https://ieeexplore.ieee.org/document/8656587), **TMM**, 2019.
 - **Xinyuan Qian**, Alessio Xompero, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [3D mouth tracking from a compact microphone array co-located with a camera](https://ieeexplore.ieee.org/document/8461323), **ICASSP**，2018.
 - Oswald Lanz, Alessio Brutti, Alessio Xompero, **Xinyuan Qian**, Maurizio Omologo, Andrea Cavallaro, [Accurate Target Annotation in 3D from Multimodal Streams](https://ieeexplore.ieee.org/document/8682619), **ICASSP**，2018.
 - **Xinyuan Qian**, Alessio Brutti,  Maurizio Omologo, Andrea Cavallaro, [3D audio-visual speaker tracking with an adaptive particle filter](https://ieeexplore.ieee.org/abstract/document/7952686), **ICASSP**，2017.
