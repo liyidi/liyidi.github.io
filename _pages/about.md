@@ -47,8 +47,8 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 # 📖 Educations
 - *2015.11 - 2019.11*, Ph.D. in Computer Scicence, Queen Mary, University of London (QMUL), London, U.K. 
-- *2014.08 - 2015.08*, M.Sc. in Signal Processing and Communications, University of Edinburgh (UoE), U.K.  (Distinction) 
-- *2012.09 - 2014.06*, B.Eng. in Electronics and Electrical Engineering, University of Edinburgh (UoE), U.K. (First Class Honors) 
+- *2014.08 - 2015.08*, M.Sc. in Signal Processing and Communications, University of Edinburgh (UoE), U.K.  (Distinction，卓越) 
+- *2012.09 - 2014.06*, B.Eng. in Electronics and Electrical Engineering, University of Edinburgh (UoE), U.K. (First Class Honors，一等荣誉) 
 - *2010.09 - 2012.06*, B.Eng. in Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China. (Top: 3%)
 
 
