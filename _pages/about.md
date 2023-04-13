@@ -21,10 +21,16 @@ I am currently an Associate Professor at University of Science and Technology Be
 
 My research interest mainly focuses on audio-visual fusion, includes speech processing, speaker localization and tracking, active speaker detection, gesture synthesis, automatic speech recognition. I have published more than 20 papers at the top-tiered international AI journals/conferences such as TMM, TASLP, TII, ACM MM, ICRA ICASSP, INTERSPEECH.
 
-🔥 News
-
 🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details.
 开展以深度学习为核心的**语音信号处理、多模态人机交互研究**，学生可以根据兴趣自由选择，欢迎对研究感兴趣的同学联系我~
+
+🔥 News
+- 2023 Apr one TASLP paper accepted!
+- 2023 Apr one CVPR paper accepted!
+- 2023 Mar   Dr. Qian was invited as an Associate Editor (AE) of IROS 2023 with the track of robotic audition
+- 2023 Mar   two ICASSP papers accepted！
+- 2023 Mar   one ICRA paper accepted!
+- 2023 Feb   one TCE paper accepted!
 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
