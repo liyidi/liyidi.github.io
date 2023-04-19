@@ -36,13 +36,12 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; 
-      Speaker recognition and verification 说话人识别；</td>
-      Speech separation and extraction 语音分离；</td>
+      Speaker recognition and verification 说话人识别；Speech separation and extraction 语音分离；Key-word spotting 关键词检测；
     Automatic Speech Recognition 语音识别</td>
     <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp;&nbsp; Face detection and recognition 人脸检测及识别; Lip reading 唇读；Gesture synthesis 姿态生成</td>
   </tr>
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection 说话人活跃检测; Speaker Localization and Tracking 声源定位及追踪</td>
+    <td style="border: none;"> <font color="#0b5394"> Multi-modal Processing </font>: <BR>&nbsp;&nbsp; Audio-visual active speaker detection 说话人活跃检测; Text-to-speech Synthesis 语音合成；Speaker Localization and Tracking 声源定位及追踪</td>
     <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>&nbsp;&nbsp; Self-supervised speech processing 自监督学习 </td>
   </tr>
 </table>
