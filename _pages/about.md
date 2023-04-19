@@ -35,7 +35,10 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; Speaker recognition and verification 说话人识别；Speech separation and extraction 语音分离；Automatic Speech Recognition 语音识别</td>
+    <td style="border: none;"> <font color="#0b5394"> Speech Processing </font>: <BR>&nbsp;&nbsp; 
+      Speaker recognition and verification 说话人识别；</td>
+      Speech separation and extraction 语音分离；</td>
+    Automatic Speech Recognition 语音识别</td>
     <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp;&nbsp; Face detection and recognition 人脸检测及识别; Lip reading 唇读；Gesture synthesis 姿态生成</td>
   </tr>
   <tr style="border: none;">
