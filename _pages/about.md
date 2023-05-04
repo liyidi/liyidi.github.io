@@ -60,7 +60,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - *2010.09 - 2012.06*, B.Eng. in Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China. (Top: 3%)
 
 
-<!-- # 📝 Publications  -->
+# 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,8 +73,8 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-# 📝 Representative Publications
-<!-- -- **Representative Works** -- -->
+<!-- # 📝 Representative Publications
+ -- **Representative Works** --
 - **Xinyuan Qian**, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li, [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308)，**IEEE/ACM Transactions on Audio, Speech and Language Processing**, 2022.
 - **Xinyuan Qian**, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [Audio-visual tracking of concurrent speakers](https://ieeexplore.ieee.org/document/9362311), **IEEE Transactions on Multimedia**,2021.
 - **Xinyuan Qian**, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [Multi-speaker tracking from an audio–visual sensing device](https://ieeexplore.ieee.org/document/8656587), **IEEE Transactions on Multimedia**, 2019.
@@ -85,15 +85,16 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - **Xinyuan Qian**, Alessio Xompero, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [3D mouth tracking from a compact microphone array co-located with a camera](https://ieeexplore.ieee.org/document/8461323), **ICASSP**，2018.
 - **Xinyuan Qian**, Alessio Brutti,  Maurizio Omologo, Andrea Cavallaro, [3D audio-visual speaker tracking with an adaptive particle filter](https://ieeexplore.ieee.org/abstract/document/7952686), **ICASSP**，2017.
 - **Xinyuan Qian**, Jichen Yang, Alessio Brutti, [Speaker Front-back Disambiguity using Multi-channel Speech Signals](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12666?af=R), **Electronics Letters** 2022.
-
-<!-- 
+ -->
+ -->
 -- **2023** --
 - Longting Xu, Jichen Yang<sup>`*`</sup>, Chang Huai You, **Xinyuan Qian<sup>`*`</sup>**, Daiyu Huang, [Device Features Based on Linear Transformation With Parallel Training Data for Replay Speech Detection](https://ieeexplore.ieee.org/abstract/document/10103148), **TASLP**, 2023.
-- Jiadong Wang, **Xinyuan Qian<sup>`*`</sup>**, Malu Zhang, Robby T Tan, Haizhou Li, [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), **CVPR**, 2023
-- Moran Chen, Qiquan Zhang, Qi Song, **Xinyuan Qian**, Ruijin Guo, Mingjiang Wang, Deying Chen [Neural-Free Attention for Monaural Speech Enhancement Towards Voice User Interface for Consumer Electronics](https://ieeexplore.ieee.org/abstract/document/10070570), **TCE**, 2023
-- Kaspar Althoefer, Yonggen Ling, Wanlin Li, **Xinyuan Qian**, Wang Wei Lee, Peng Qi, [A Miniaturised Camera-based Multi-Modal Tactile Sensor](https://arxiv.org/pdf/2303.03093.pdf), **ICRA**, 2023
-- Tian-Hao Zhang, Qi Liu, **Xinyuan Qian<sup>`*`</sup>**, Song-Lu Chen, Feng Chen, Xu-Cheng Yin<sup>`*`</sup>, [Self-Convolution for Automatic Speech Recognition], **ICASSP**, 2023 -->
-<!-- 
+- Jiadong Wang, **Xinyuan Qian<sup>`*`</sup>**, Malu Zhang, Robby T Tan, Haizhou Li, [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), **CVPR**, 2023.
+- Tian-Hao Zhang, Qi Liu, **Xinyuan Qian<sup>`*`</sup>**, Song-Lu Chen, Feng Chen, Xu-Cheng Yin<sup>`*`</sup>, [Self-Convolution for Automatic Speech Recognition], **ICASSP**, 2023.
+- Moran Chen, Qiquan Zhang, Qi Song, **Xinyuan Qian**, Ruijin Guo, Mingjiang Wang, Deying Chen [Neural-Free Attention for Monaural Speech Enhancement Towards Voice User Interface for Consumer Electronics](https://ieeexplore.ieee.org/abstract/document/10070570), **TCE**, 2023.
+- Kaspar Althoefer, Yonggen Ling, Wanlin Li, **Xinyuan Qian**, Wang Wei Lee, Peng Qi, [A Miniaturised Camera-based Multi-Modal Tactile Sensor](https://arxiv.org/pdf/2303.03093.pdf), **ICRA**, 2023.
+
+
 -- **2022** --
 - **Xinyuan Qian**, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li, [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308)，**TASLP**, 2022.
 - **Xinyuan Qian**, Qiquan Zhang, Guohui Guan and Wei Xue, [Deep Audio-visual Beamforming for Speaker Localization](https://ieeexplore.ieee.org/document/9750883), **SPL**, 2022.
@@ -111,15 +112,13 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - Jiadong Wang, **Xinyuan Qian<sup>`*`</sup>**, Zihan Pan, Malu Zhang, Haizhou Li, [GCC-PHAT with Speech-oriented Attention for Robotic Sound Source Localization](https://ieeexplore.ieee.org/document/9561885), **ICRA**, 2021.
 - Ruijie Tao, Zexu Pan, Rohan Kumar Das, **Xinyuan Qian**, Mike Zheng Shou, Haizhou Li, [Is Someone Speaking? Exploring Long-term Temporal Features for Audio-visual Active Speaker Detection](https://arxiv.org/abs/2107.06592), **ACM MM**, 2021.
 
--- **2020** --
-- Shoufeng Lin<sup>`#`</sup>, **Xinyuan Qian<sup>`#`</sup>**, [Audio-Visual Multi-Speaker Tracking Based on the GLMB Framework](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/1969.pdf), **INTERSPEECH**, 2021.
-
--- **2019 and Before** --
+-- **2020 and Before** --
+- Shoufeng Lin<sup>`#`</sup>, **Xinyuan Qian<sup>`#`</sup>**, [Audio-Visual Multi-Speaker Tracking Based on the GLMB Framework](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/1969.pdf), **INTERSPEECH**, 2020.
 - **Xinyuan Qian**, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [Multi-speaker tracking from an audio–visual sensing device](https://ieeexplore.ieee.org/document/8656587), **TMM**, 2019.
 - **Xinyuan Qian**, Alessio Xompero, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [3D mouth tracking from a compact microphone array co-located with a camera](https://ieeexplore.ieee.org/document/8461323), **ICASSP**，2018.
 - Oswald Lanz, Alessio Brutti, Alessio Xompero, **Xinyuan Qian**, Maurizio Omologo, Andrea Cavallaro, [Accurate Target Annotation in 3D from Multimodal Streams](https://ieeexplore.ieee.org/document/8682619), **ICASSP**，2018.
 - **Xinyuan Qian**, Alessio Brutti,  Maurizio Omologo, Andrea Cavallaro, [3D audio-visual speaker tracking with an adaptive particle filter](https://ieeexplore.ieee.org/abstract/document/7952686), **ICASSP**，2017.
-- Deepayan Bhowmik, Andrew Wallace, Robert Stewart, **Xinyuan Qian**, Greg Michaelson, [Profile driven dataflow optimisation of mean shift visual tracking](https://ieeexplore.ieee.org/document/7032066), **GlobalSIP**，2014. -->
+- Deepayan Bhowmik, Andrew Wallace, Robert Stewart, **Xinyuan Qian**, Greg Michaelson, [Profile driven dataflow optimisation of mean shift visual tracking](https://ieeexplore.ieee.org/document/7032066), **GlobalSIP**，2014. 
 
 # 🎖 Certifications and Awards
 - Best Paper Award, COCOSDA, 2021
