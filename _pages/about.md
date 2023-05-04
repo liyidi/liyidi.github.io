@@ -75,11 +75,11 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 </div> -->
 
 -- **2023** --
-- Longting Xu, Jichen Yang<sup>`*`</sup>, Chang Huai You, **Xinyuan Qian<sup>`*`</sup>**, Daiyu Huang, [Device Features Based on Linear Transformation With Parallel Training Data for Replay Speech Detection](https://ieeexplore.ieee.org/abstract/document/10103148), TASLP, 2023.
-- Jiadong Wang, **Xinyuan Qian<sup>`*`</sup>**, Malu Zhang, Robby T Tan, Haizhou Li, [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), CVPR, 2023
-- Moran Chen, Qiquan Zhang, Qi Song, **Xinyuan Qian**, Ruijin Guo, Mingjiang Wang, Deying Chen [Neural-Free Attention for Monaural Speech Enhancement Towards Voice User Interface for Consumer Electronics](https://ieeexplore.ieee.org/abstract/document/10070570), TCE, 2023
-- Kaspar Althoefer, Yonggen Ling, Wanlin Li, Xinyuan Qian, Wang Wei Lee, Peng Qi, [A Miniaturised Camera-based Multi-Modal Tactile Sensor](https://arxiv.org/pdf/2303.03093.pdf), ICRA, 2023
-- Tian-Hao Zhang, Qi Liu, **Xinyuan Qian<sup>`*`</sup>**, Song-Lu Chen, Feng Chen, Xu-Cheng Yin<sup>`*`</sup>,, [Self-Convolution for Automatic Speech Recognition], ICASSP, 2023
+- Longting Xu, Jichen Yang<sup>`*`</sup>, Chang Huai You, **Xinyuan Qian<sup>`*`</sup>**, Daiyu Huang, [Device Features Based on Linear Transformation With Parallel Training Data for Replay Speech Detection](https://ieeexplore.ieee.org/abstract/document/10103148), **TASLP**, 2023.
+- Jiadong Wang, **Xinyuan Qian<sup>`*`</sup>**, Malu Zhang, Robby T Tan, Haizhou Li, [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), **CVPR**, 2023
+- Moran Chen, Qiquan Zhang, Qi Song, **Xinyuan Qian**, Ruijin Guo, Mingjiang Wang, Deying Chen [Neural-Free Attention for Monaural Speech Enhancement Towards Voice User Interface for Consumer Electronics](https://ieeexplore.ieee.org/abstract/document/10070570), **TCE**, 2023
+- Kaspar Althoefer, Yonggen Ling, Wanlin Li, **Xinyuan Qian**, Wang Wei Lee, Peng Qi, [A Miniaturised Camera-based Multi-Modal Tactile Sensor](https://arxiv.org/pdf/2303.03093.pdf), **ICRA**, 2023
+- Tian-Hao Zhang, Qi Liu, **Xinyuan Qian<sup>`*`</sup>**, Song-Lu Chen, Feng Chen, Xu-Cheng Yin<sup>`*`</sup>, [Self-Convolution for Automatic Speech Recognition], **ICASSP**, 2023
 
 -- **2022** --
 - **Xinyuan Qian**, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li, [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308)，**TASLP**, 2022.
