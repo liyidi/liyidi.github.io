@@ -60,7 +60,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - *2010.09 - 2012.06*, B.Eng. in Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA), Nanjing, China. (Top: 3%)
 
 
-# 📝 Publications 
+<!-- # 📝 Publications  -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,13 +73,13 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-
--- **Representative Work** --
-- **Xinyuan Qian**, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li, [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308)，**TASLP**, 2022.
-- **Xinyuan Qian**, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [Audio-visual tracking of concurrent speakers](https://ieeexplore.ieee.org/document/9362311), **TMM**,2021.
-- **Xinyuan Qian**, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [Multi-speaker tracking from an audio–visual sensing device](https://ieeexplore.ieee.org/document/8656587), **TMM**, 2019.
-- **Xinyuan Qian**, Qi Liu, Jiadong Wang, Haizhou Li, [Three-Dimensional Speaker Localization: Audio-Refined Visual Scaling Factor Estimation](https://ieeexplore.ieee.org/document/9466446), **SPL**, 2021.
-- **Xinyuan Qian**, Qiquan Zhang, Guohui Guan and Wei Xue, [Deep Audio-visual Beamforming for Speaker Localization](https://ieeexplore.ieee.org/document/9750883), **SPL**, 2022.
+# 📝 Representative Publications
+<!-- -- **Representative Works** -- -->
+- **Xinyuan Qian**, Zhengdong Wang, Jiadong Wang, Guohui Guan, Haizhou Li, [Audio-Visual Cross-Attention Network for Robotic Speaker Tracking](https://ieeexplore.ieee.org/document/9968308)，**IEEE/ACM Transactions on Audio, Speech and Language Processing**, 2022.
+- **Xinyuan Qian**, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [Audio-visual tracking of concurrent speakers](https://ieeexplore.ieee.org/document/9362311), **IEEE Transactions on Multimedia**,2021.
+- **Xinyuan Qian**, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [Multi-speaker tracking from an audio–visual sensing device](https://ieeexplore.ieee.org/document/8656587), **IEEE Transactions on Multimedia**, 2019.
+- **Xinyuan Qian**, Qi Liu, Jiadong Wang, Haizhou Li, [Three-Dimensional Speaker Localization: Audio-Refined Visual Scaling Factor Estimation](https://ieeexplore.ieee.org/document/9466446), **IEEE Signal Processing Letters**, 2021.
+- **Xinyuan Qian**, Qiquan Zhang, Guohui Guan and Wei Xue, [Deep Audio-visual Beamforming for Speaker Localization](https://ieeexplore.ieee.org/document/9750883), **IEEE Signal Processing Letters**, 2022.
 - **Xinyuan Qian**, Bidisha Sharma, Amine El Abridi, Haizhou Li, [SLoClas: A Database for Joint Sound Localization and Classification](https://arxiv.org/abs/2108.02539), **COCOSDA**, 2021, **Best Paper Award**.
 - **Xinyuan Qian**, Maulik Madhavi, Zexu Pan, Jiadong Wang, Haizhou Li, [Multi-target DoA estimation with an audio-visual fusion mechanism](https://ieeexplore.ieee.org/document/9413776), **ICASSP**, 2021.
 - **Xinyuan Qian**, Alessio Xompero, Alessio Brutti, Oswald Lanz, Maurizio Omologo, Andrea Cavallaro, [3D mouth tracking from a compact microphone array co-located with a camera](https://ieeexplore.ieee.org/document/8461323), **ICASSP**，2018.
