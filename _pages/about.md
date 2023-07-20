@@ -23,7 +23,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态人机交互**研究，学生可以根据兴趣自由选择 
 
-【课题组招收2024年入学计算机科学与技术硕士、博士，也欢迎优秀的本科生加入】
+<font color=red> 【课题组招收2024年入学计算机科学与技术硕士、博士，也欢迎优秀的本科生加入】
 - 为优秀学生提供参加国内/国际会议的机会
 - 海外名校导师联合指导
 - 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
@@ -33,14 +33,14 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 
 🔥 News
-- 2023 Jun   Dr. Qian passed the Tenue-track 
-- 2023 May   two INTERSPEECH paper accepted!
-- 2023 Apr   one TASLP paper accepted!
-- 2023 Apr   one CVPR paper accepted!
-- 2023 Mar   Dr. Qian was invited as an Associate Editor (AE) of IROS 2023 with the track of robotic audition
-- 2023 Mar   two ICASSP papers accepted！
-- 2023 Mar   one ICRA paper accepted!
-- 2023 Feb   one TCE paper accepted!
+- 2023 Jun.  Dr. Qian passed the Tenue-track 
+- 2023 May.   two INTERSPEECH paper accepted!
+- 2023 Apr.   one TASLP paper accepted!
+- 2023 Apr.   one CVPR paper accepted!
+- 2023 Mar.   Dr. Qian was invited as an Associate Editor (AE) of IROS 2023 with the track of robotic audition
+- 2023 Mar.   two ICASSP papers accepted！
+- 2023 Mar.   one ICRA paper accepted!
+- 2023 Feb.   one TCE paper accepted!
 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
