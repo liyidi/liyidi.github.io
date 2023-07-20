@@ -23,7 +23,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态人机交互**研究，学生可以根据兴趣自由选择 
 
-<font color=red> 【课题组招收2024年入学计算机科学与技术硕士、博士，也欢迎优秀的本科生加入】
+<font color=red> 【课题组招收2024年入学计算机科学与技术硕士、博士，也欢迎优秀的本科生加入】</font>
 - 为优秀学生提供参加国内/国际会议的机会
 - 海外名校导师联合指导
 - 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
@@ -100,7 +100,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 -- **2023** --
 - Longting Xu, Jichen Yang<sup>`*`</sup>, Chang Huai You, **Xinyuan Qian<sup>`*`</sup>**, Daiyu Huang, [Device Features Based on Linear Transformation With Parallel Training Data for Replay Speech Detection](https://ieeexplore.ieee.org/abstract/document/10103148), **TASLP**, 2023.
 - Jiadong Wang, **Xinyuan Qian<sup>`*`</sup>**, Malu Zhang, Robby T Tan, Haizhou Li, [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), **CVPR**, 2023.
-- Tian-Hao Zhang, Qi Liu, **Xinyuan Qian<sup>`*`</sup>**, Song-Lu Chen, Feng Chen, Xu-Cheng Yin<sup>`*`</sup>, [Self-Convolution for Automatic Speech Recognition], **ICASSP**, 2023.
+- Tian-Hao Zhang, Qi Liu, **Xinyuan Qian<sup>`*`</sup>**, Song-Lu Chen, Feng Chen, Xu-Cheng Yin<sup>`*`</sup>, [Self-Convolution for Automatic Speech Recognition](https://ieeexplore.ieee.org/document/10095330/), **ICASSP**, 2023.
 - Moran Chen, Qiquan Zhang, Qi Song, **Xinyuan Qian**, Ruijin Guo, Mingjiang Wang, Deying Chen [Neural-Free Attention for Monaural Speech Enhancement Towards Voice User Interface for Consumer Electronics](https://ieeexplore.ieee.org/abstract/document/10070570), **TCE**, 2023.
 - Kaspar Althoefer, Yonggen Ling, Wanlin Li, **Xinyuan Qian**, Wang Wei Lee, Peng Qi, [A Miniaturised Camera-based Multi-Modal Tactile Sensor](https://arxiv.org/pdf/2303.03093.pdf), **ICRA**, 2023.
 
