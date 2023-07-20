@@ -17,16 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor at University of Science and Technology Beijing (USTB). Prior to that I worked as a research fellow at National University of Singapore (NUS), Singapore, supervised by Prof. [Haizhou Li (李海洲)](https://colips.org/~eleliha/). I received my Ph.D. degree from Queen Mary, University of London (QMUL), U.K., under the supervision of Prof. [Andrea Cavallaro](http://www.eecs.qmul.ac.uk/~andrea/). During my Ph.D. degree, I went to Fondazione Bruno Kessler [(FBK)](https://www.fbk.eu/en/), Trento, Italy, as a research assistant, supervised by Dr. [Maurizio Omologo](https://www.amazon.science/author/maurizio-omologo) and Dr. [Alessio Brutti](https://ict.fbk.eu/people/detail/alessio-brutti-fbk-speech-processing/). I received my B.Eng. and M.Sc. degrees both from the University of Edinburgh, U.K., supervised by Prof. [James Hopgood](https://www.eng.ed.ac.uk/about/people/dr-james-r-hopgood).
+I am currently an Associate Professor at University of Science and Technology Beijing, China (北京科技大学，计算机与通信工程学院). Prior to that I worked as a research fellow at National University of Singapore (NUS), Singapore, supervised by Prof. [Haizhou Li (李海洲)](https://colips.org/~eleliha/). I received my Ph.D. degree from Queen Mary, University of London (QMUL), U.K., under the supervision of Prof. [Andrea Cavallaro](http://www.eecs.qmul.ac.uk/~andrea/). During my Ph.D. degree, I went to Fondazione Bruno Kessler [(FBK)](https://www.fbk.eu/en/), Trento, Italy, as a research assistant, supervised by Dr. [Maurizio Omologo](https://www.amazon.science/author/maurizio-omologo) and Dr. [Alessio Brutti](https://ict.fbk.eu/people/detail/alessio-brutti-fbk-speech-processing/). I received my B.Eng. and M.Sc. degrees both from the University of Edinburgh, U.K., supervised by Prof. [James Hopgood](https://www.eng.ed.ac.uk/about/people/dr-james-r-hopgood).
 
-My research interest mainly focuses on audio-visual fusion, includes speech processing, speaker localization and tracking, active speaker detection, gesture synthesis, automatic speech recognition. I have published more than 20 papers at the top-tiered international AI journals/conferences such as TMM, TASLP, TII, ACM MM, ICRA ICASSP, INTERSPEECH.
+My research interest mainly focuses on audio-visual fusion, includes speech processing, speaker localization and tracking, active speaker detection, gesture synthesis, automatic speech recognition. I have published more than 30 papers at the top-tiered international AI journals/conferences such as TMM, TASLP, TII, ACM MM, ICRA ICASSP, INTERSPEECH.
 
-🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details.
-开展以深度学习为核心的**语音信号处理、多模态人机交互研究**，学生可以根据兴趣自由选择，欢迎对研究感兴趣的同学联系我~
+🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态人机交互**研究，学生可以根据兴趣自由选择 
+
+【课题组招收2024年入学计算机科学与技术硕士、博士，也欢迎优秀的本科生加入】
+- 为优秀学生提供参加国内/国际会议的机会
+- 海外名校导师联合指导
+- 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
+- 欢迎计算机基础较好，有程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学联系
+
+
+
 
 🔥 News
-- 2023 Apr one TASLP paper accepted!
-- 2023 Apr one CVPR paper accepted!
+- 2023 Jun   Dr. Qian passed the Tenue-track 
+- 2023 May   two INTERSPEECH paper accepted!
+- 2023 Apr   one TASLP paper accepted!
+- 2023 Apr   one CVPR paper accepted!
 - 2023 Mar   Dr. Qian was invited as an Associate Editor (AE) of IROS 2023 with the track of robotic audition
 - 2023 Mar   two ICASSP papers accepted！
 - 2023 Mar   one ICRA paper accepted!
@@ -86,7 +96,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - **Xinyuan Qian**, Alessio Brutti,  Maurizio Omologo, Andrea Cavallaro, [3D audio-visual speaker tracking with an adaptive particle filter](https://ieeexplore.ieee.org/abstract/document/7952686), **ICASSP**，2017.
 - **Xinyuan Qian**, Jichen Yang, Alessio Brutti, [Speaker Front-back Disambiguity using Multi-channel Speech Signals](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12666?af=R), **Electronics Letters** 2022.
  -->
- -->
+
 -- **2023** --
 - Longting Xu, Jichen Yang<sup>`*`</sup>, Chang Huai You, **Xinyuan Qian<sup>`*`</sup>**, Daiyu Huang, [Device Features Based on Linear Transformation With Parallel Training Data for Replay Speech Detection](https://ieeexplore.ieee.org/abstract/document/10103148), **TASLP**, 2023.
 - Jiadong Wang, **Xinyuan Qian<sup>`*`</sup>**, Malu Zhang, Robby T Tan, Haizhou Li, [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), **CVPR**, 2023.
