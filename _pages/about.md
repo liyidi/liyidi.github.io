@@ -23,25 +23,25 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 🎉🎉 Our lab in USTB is actively looking for research assistants and postgraduate students. Please contact me at **qianxy@ustb.edu.cn** for more details. 开展**以深度学习为核心的语音信号处理、视觉+听觉多模态人机交互**研究，学生可以根据兴趣自由选择 
 
-<font color=red> 【课题组招收2024年入学计算机科学与技术硕士、博士，也欢迎优秀的本科生加入】</font>
-- 为优秀学生提供参加国内/国际会议的机会
-- 海外名校导师联合指导
+<font color=red> 【课题组经费充足，科研氛围浓厚，现招收2024年入学计算机科学与技术硕士研究生、博士研究生，也欢迎优秀的本科生加入】</font>
+欢迎计算机基础较好，有程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学联系我 (附CV及自我介绍，qianxy@ustb.edu.cn)
+你将获得：
+- 参加国内/国际会议的机会
+- 海内外名校导师联合指导
 - 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
-- 欢迎计算机基础较好，有程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学联系
-
-
 
 
 🔥 News
-- 2023 Jun.  Dr. Qian passed the Tenue-track 
-- 2023 May.   two INTERSPEECH paper accepted!
-- 2023 Apr.   one TASLP paper accepted!
-- 2023 Apr.   one CVPR paper accepted!
-- 2023 Mar.   Dr. Qian was invited as an Associate Editor (AE) of IROS 2023 with the track of robotic audition
-- 2023 Mar.   two ICASSP papers accepted！
+- 2023.06
+- 2023.06   Dr. Qian passed the Tenure-track 
+- 2023.05   two INTERSPEECH paper accepted!
+- 2023.04   one TASLP paper accepted!
+- 2023.04   one CVPR paper accepted!
+- 2023.03   Dr. Qian was invited as an Associate Editor (AE) of IROS 2023 with the track of robotic audition
+<!-- - 2023 Mar.   two ICASSP papers accepted！
 - 2023 Mar.   one ICRA paper accepted!
 - 2023 Feb.   one TCE paper accepted!
-
+ -->
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -141,6 +141,12 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - First-Class Scholarship Award, NUAA, Nanjing, China, 2010-2011
 
 # 👔 Projects
+- Young Scientists Fund of the National Natural Science Foundation of China 国家自然科学基金青年项目 (PI), 2023
+- CCF-Tencent AI-Lab Open Fund 腾讯 AI Lab犀牛鸟专项（PI), 2023
+- Fundamental Research Funds for the Central Universities 中央高校基本科研业务经费 （PI), 2023
+- Eigenspace Audio Technology Project (PI), 2023
+- Beijing Municipal Natural Science Foundation - Xiaomi 北京市自然科学基金——小米创新联合基金项目 (Co-PI), 2023
+
 - Human Robot Interaction Project-Phase 1, Singapore, 2020-2022
 - Huawei Research&Design Project, Shenzhen, China, 2022
 - Shenzhen Research Institute of Big Data Internal Project (SRIBD), Shenzhen, China, 2022
@@ -150,6 +156,16 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 
 
+<!-- Google Analytics -->
+<script async src="https://catherine-qian.github.io/"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'GA_MEASUREMENT_ID');
+</script>
+<!-- End Google Analytics -->
 
 
 
