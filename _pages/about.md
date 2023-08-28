@@ -32,7 +32,6 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 
 🔥 News
-- 2023.06
 - 2023.06   Dr. Qian passed the Tenure-track 
 - 2023.05   two INTERSPEECH paper accepted!
 - 2023.04   one TASLP paper accepted!
@@ -42,6 +41,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - 2023 Mar.   one ICRA paper accepted!
 - 2023 Feb.   one TCE paper accepted!
  -->
+ 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
