@@ -32,15 +32,12 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 
 🔥 News
+- 2023.09   one TMM paper accepted!
 - 2023.06   Dr. Qian passed the Tenure-track 
 - 2023.05   two INTERSPEECH paper accepted!
 - 2023.04   one TASLP paper accepted!
 - 2023.04   one CVPR paper accepted!
 - 2023.03   Dr. Qian was invited as an Associate Editor (AE) of IROS 2023 with the track of robotic audition
-<!-- - 2023 Mar.   two ICASSP papers accepted！
-- 2023 Mar.   one ICRA paper accepted!
-- 2023 Feb.   one TCE paper accepted!
- -->
  
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
@@ -98,6 +95,9 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
  -->
 
 -- **2023** --
+- Xinyuan Qian, Wei Xue, Qiquan Zhang, Ruijie Tao, Haizhou Li, [Deep Cross-modal Retrieval Between Spatial Image
+and Acoustic Speech]， **TMM**, 2023
+- Tian-Hao Zhang, Hai-Bo Qin, Zhi-Hao Lai, Song-Lu Chen, Qi Liu, Feng Chen, **Xinyuan Qian<sup>`*`</sup>**, Xu-Cheng Yin [Rethinking Speech Recognition with A Multimodal Perspective via Acoustic and Semantic Cooperative Decoding], **INTERSPEECH**, 2023
 - Longting Xu, Jichen Yang<sup>`*`</sup>, Chang Huai You, **Xinyuan Qian<sup>`*`</sup>**, Daiyu Huang, [Device Features Based on Linear Transformation With Parallel Training Data for Replay Speech Detection](https://ieeexplore.ieee.org/abstract/document/10103148), **TASLP**, 2023.
 - Jiadong Wang, **Xinyuan Qian<sup>`*`</sup>**, Malu Zhang, Robby T Tan, Haizhou Li, [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), **CVPR**, 2023.
 - Tian-Hao Zhang, Qi Liu, **Xinyuan Qian<sup>`*`</sup>**, Song-Lu Chen, Feng Chen, Xu-Cheng Yin<sup>`*`</sup>, [Self-Convolution for Automatic Speech Recognition](https://ieeexplore.ieee.org/document/10095330/), **ICASSP**, 2023.
@@ -139,6 +139,10 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - Excellent international student scholarship, Edinburgh, U.K., 2013-2014
 - Shanghai 801 scholarship, 2011
 - First-Class Scholarship Award, NUAA, Nanjing, China, 2010-2011
+
+# 💬 Teaching 
+- 离散数学
+- 模式识别基础
 
 # 👔 Projects
 - Young Scientists Fund of the National Natural Science Foundation of China 国家自然科学基金青年项目 (PI), 2023
