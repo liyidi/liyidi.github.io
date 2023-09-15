@@ -95,7 +95,8 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
  -->
 
 -- **2023** --
-- Xinyuan Qian, Wei Xue, Qiquan Zhang, Ruijie Tao, Haizhou Li, [Deep Cross-modal Retrieval Between Spatial Image
+- **Xinyuan Qian**, Wei Xue, Qiquan Zhang, Ruijie Tao, Yiming Wang, Kainan Chen, Haizhou Li, [Bi-directional Image-Speech Retrieval Through Geometric Consistency]， **ICCVW**, 2023
+- **Xinyuan Qian**, Wei Xue, Qiquan Zhang, Ruijie Tao, Haizhou Li, [Deep Cross-modal Retrieval Between Spatial Image
 and Acoustic Speech]， **TMM**, 2023
 - Tian-Hao Zhang, Hai-Bo Qin, Zhi-Hao Lai, Song-Lu Chen, Qi Liu, Feng Chen, **Xinyuan Qian<sup>`*`</sup>**, Xu-Cheng Yin [Rethinking Speech Recognition with A Multimodal Perspective via Acoustic and Semantic Cooperative Decoding], **INTERSPEECH**, 2023
 - Longting Xu, Jichen Yang<sup>`*`</sup>, Chang Huai You, **Xinyuan Qian<sup>`*`</sup>**, Daiyu Huang, [Device Features Based on Linear Transformation With Parallel Training Data for Replay Speech Detection](https://ieeexplore.ieee.org/abstract/document/10103148), **TASLP**, 2023.
