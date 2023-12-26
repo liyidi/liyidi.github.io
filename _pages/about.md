@@ -32,6 +32,8 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 
 🔥 News
+- 2023.12   three ICASSP ppaer accepted!
+- 2023.11   Dr. Qian has been assigned as the IEEE Senior Member
 - 2023.09   one TMM paper accepted!
 - 2023.06   Dr. Qian passed the Tenure-track 
 - 2023.05   two INTERSPEECH paper accepted!
