@@ -32,6 +32,7 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 
 
 🔥 News
+- 2024.02   one PRL paper accepted!
 - 2023.12   three ICASSP paper accepted!
 - 2023.11   Dr. Qian has been assigned as the IEEE Senior Member
 - 2023.09   one TMM paper accepted!
@@ -96,11 +97,17 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - **Xinyuan Qian**, Jichen Yang, Alessio Brutti, [Speaker Front-back Disambiguity using Multi-channel Speech Signals](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.12666?af=R), **Electronics Letters** 2022.
  -->
 
+-- **2024** --
+- Yan Liu; Li_fang Wei; **Xinyuan Qian<sup>`*`</sup>**; Tianhao Zhang; Songlu Chen; Xucheng Yin, [M3TTS: Multi-Modal Text-to-Speech of Multi-Scale Style Control for Dubbing], *PRL*, 2024
+- Yu Chen, **Xinyuan Qian<sup>`*`</sup>**, Zexu Pan, Kainan Chen, Haizhou Li, [LocSelect: Target Speaker Localization with an Auditory Selective Hearing Mechanism](https://arxiv.org/pdf/2310.10497.pdf), *ICASSP*, 2024
+- **Xinyuan Qian**, Zexu Pan, Qiquan Zhang, Kainan Chen, Shoufeng Lin, [GLMB 3D speaker tracking with video-assisted multi-channel audio optimization functions], *ICASSP*, 2024
+
 -- **2023** --
+- Miao Liu, Jing Wang, **Xinyuan Qian**, Haizhou Li, [Audio-Visual Temporal Forgery Detection Using Embedding-Level Fusion and Multi-Dimensional Contrastive Loss](https://ieeexplore.ieee.org/abstract/document/10290956), *TCSVT*, 2023
 - **Xinyuan Qian**, Wei Xue, Qiquan Zhang, Ruijie Tao, Yiming Wang, Kainan Chen, Haizhou Li, [Bi-directional Image-Speech Retrieval Through Geometric Consistency]， **ICCVW**, 2023
 - **Xinyuan Qian**, Wei Xue, Qiquan Zhang, Ruijie Tao, Haizhou Li, [Deep Cross-modal Retrieval Between Spatial Image
-and Acoustic Speech]， **TMM**, 2023
-- Tian-Hao Zhang, Hai-Bo Qin, Zhi-Hao Lai, Song-Lu Chen, Qi Liu, Feng Chen, **Xinyuan Qian<sup>`*`</sup>**, Xu-Cheng Yin [Rethinking Speech Recognition with A Multimodal Perspective via Acoustic and Semantic Cooperative Decoding], **INTERSPEECH**, 2023
+and Acoustic Speech](https://ieeexplore.ieee.org/document/10285477)， **TMM**, 2023
+- Tian-Hao Zhang, Hai-Bo Qin, Zhi-Hao Lai, Song-Lu Chen, Qi Liu, Feng Chen, **Xinyuan Qian<sup>`*`</sup>**, Xu-Cheng Yin [Rethinking Speech Recognition with A Multimodal Perspective via Acoustic and Semantic Cooperative Decoding](https://arxiv.org/abs/2305.14049), **INTERSPEECH**, 2023
 - Longting Xu, Jichen Yang<sup>`*`</sup>, Chang Huai You, **Xinyuan Qian<sup>`*`</sup>**, Daiyu Huang, [Device Features Based on Linear Transformation With Parallel Training Data for Replay Speech Detection](https://ieeexplore.ieee.org/abstract/document/10103148), **TASLP**, 2023.
 - Jiadong Wang, **Xinyuan Qian<sup>`*`</sup>**, Malu Zhang, Robby T Tan, Haizhou Li, [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), **CVPR**, 2023.
 - Tian-Hao Zhang, Qi Liu, **Xinyuan Qian<sup>`*`</sup>**, Song-Lu Chen, Feng Chen, Xu-Cheng Yin<sup>`*`</sup>, [Self-Convolution for Automatic Speech Recognition](https://ieeexplore.ieee.org/document/10095330/), **ICASSP**, 2023.
