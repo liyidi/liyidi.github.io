@@ -30,7 +30,6 @@ My research interest mainly focuses on audio-visual fusion, includes speech proc
 - 海内外名校导师联合指导
 - 有机会推荐到英国爱丁堡大学、萨里大学、伦敦玛丽女王大学、香港科技大学、香港中文大学（深圳）、新加坡国立大学等学习访问
 
-
 🔥 News
 - 2024.02   one PRL paper accepted!
 - 2023.12   three ICASSP paper accepted!
