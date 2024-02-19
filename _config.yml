@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qian Xinyuan <br> (钱馨园)"
-description              : "<br> Associate Professor at University of Science and Technology Beijing, China <br> <br>“一切高山低谷都是祝福” "
+title                    : "Yidi Li (李一迪)"
+description              : "<br> Associate Professor at Taiyuan University of Technology, China, China <br>"
 repository               : "catherine-qian/qianxinyuan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qian Xinyuan  <br> (钱馨园)"
-  avatar           : "images/qianxinyuan.jpeg"
+  name             : "Yidi Li  <br> (李一迪)"
+  avatar           : "https://ccst.tyut.edu.cn/__local/3/BD/43/D800E51BA10409F1D5D78ED0909_C8CF3D56_55C96.jpg"
   # bio              : "[Curriculum Vitae]"
-  location         : "Beijing, China"
+  location         : "Taiyuan, China"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=lherf_kAAAAJ&hl=en"
-  email            : "qianxy@ustb.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=wnCeZcoAAAAJ"
+  email            : "liyidi@tyut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,7 +43,6 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xinyuan-qian-019a99a1/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
