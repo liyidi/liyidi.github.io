@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yidi Li (李一迪)"
 description              : "<br> Associate Professor at Taiyuan University of Technology, China, China <br>"
-repository               : "catherine-qian/qianxinyuan.github.io"
+repository               : "liyidi/liyidi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "catherine-qian"
+  github           : "liyidi"
   google_plus      :
   keybase          :
   instagram        :
