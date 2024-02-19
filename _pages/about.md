@@ -43,19 +43,19 @@ Industrial Vision, Action Recognition, Object Tracking
 
 # 📝 Publications 
 
-- [1] Zhenhuan Xu, Yongfei Wu, Liming Zhang, ***\*Yidi Li\****, Adaptive Fourier Decomposition Based Signal Extraction on Weak Electromagnetic Field, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
-- [2] Ruijia Fan, Hong Liu, ***\*Yidi Li\****, ATTA-NET: Attention Aggregation Network for Audio-Visual Emotion Recognition, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
-- **[3]** ***\*Yidi Li\****, Guoquan Wang, Zhan Chen, Hao Tang, and Hong Liu. On-device audio-visual multi-person wake word spotting, CAAI Transactions on Intelligence Technology, 2023. 
-- **[4]** ***\*Yidi Li\****, Jiale Ren, Yawei Wang, Xia Li, and Hong Liu. Audio-visual keyword transformer for unconstrained sentence-level keyword spotting, CAAI Transactions on Intelligence Technology, 2023.
-- [5] Guoquan Wang, Hong Liu, Tianyu Guo, Jingwen Guo, Ti Wang, ***\*Yidi Li\****. Self-supervised 3D Skeleton Representation Learning With Active Sampling And Adaptive Relabeling For Action Recognition. ICIP, 2023. 
-- [6] Xingyue Shi, Hong Liu, Wei Shi, Zihui Zhou, ***\*Yidi Li\****. Boosting person re-identification with viewpoint contrastive learning and adversarial training. Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. 
-- [7] Wanruo Zhang, Hong Liu, Jianbing Wu, ***\*Yidi Li\****. MVSSC: Meta reinforcement Learning Based Visual lndoor Navication Using Multi-view Semantic Spatial Context, Pattern Recognition Letters. 2023. 
-- [8] Jian Zhang, Ge Yang, Runwei Ding, ***\*Yidi Li\****. Cascade RDN: Towards Accurate Localization in Industrial Visual Anomaly Detection with Structural Anomaly Generation, IEEE Robotics and Automation Letters, 2023.
-- **[9]** ***\*Yidi Li\****, Hong Liu, Hao Tang. Multi-modal perception attention network with self supervised learning for audio-visual speaker tracking, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2022. 
-- [10] Peini Guo, Zhengyan Chen, ***\*Yidi Li\****, and Hong Liu. Audio-visual fusion network based on conformer for multimodal emotion recognition. Artificial Intelligence (CICAI), 2022.
-- [11] Hong Liu, Yongheng Sun, ***\*Yidi Li\****, Bing Yang. 3D audio-visual speaker tracking with a novel particle filter. Proceedings of International Conference on Pattern Recognition (ICPR), 2021.
-- **[12]** ***\*Yidi Li\****, Hong Liu, Bing Yang, Runwei Ding, Yang Chen. Deep metric learning-assisted 3d audio-visual speaker tracking via two-layer particle filter. Complexity, 2020.
-- [13] Hong Liu, ***\*Yidi Li\****, Bing Yang. 3D audio-visual speaker tracking with a two-layer particle filter. Proceedings of IEEE International Conference on Image Processing (ICIP), 2019. 
+- [1] Zhenhuan Xu, Yongfei Wu, Liming Zhang, **Yidi Li**, Adaptive Fourier Decomposition Based Signal Extraction on Weak Electromagnetic Field, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
+- [2] Ruijia Fan, Hong Liu, **Yidi Li**, ATTA-NET: Attention Aggregation Network for Audio-Visual Emotion Recognition, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. 
+- **[3]** **Yidi Li**, Guoquan Wang, Zhan Chen, Hao Tang, and Hong Liu. On-device audio-visual multi-person wake word spotting, CAAI Transactions on Intelligence Technology, 2023. 
+- **[4]** **Yidi Li**, Jiale Ren, Yawei Wang, Xia Li, and Hong Liu. Audio-visual keyword transformer for unconstrained sentence-level keyword spotting, CAAI Transactions on Intelligence Technology, 2023.
+- [5] Guoquan Wang, Hong Liu, Tianyu Guo, Jingwen Guo, Ti Wang, **Yidi Li**. Self-supervised 3D Skeleton Representation Learning With Active Sampling And Adaptive Relabeling For Action Recognition. ICIP, 2023. 
+- [6] Xingyue Shi, Hong Liu, Wei Shi, Zihui Zhou, **Yidi Li**. Boosting person re-identification with viewpoint contrastive learning and adversarial training. Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. 
+- [7] Wanruo Zhang, Hong Liu, Jianbing Wu, **Yidi Li**. MVSSC: Meta reinforcement Learning Based Visual lndoor Navication Using Multi-view Semantic Spatial Context, Pattern Recognition Letters. 2023. 
+- [8] Jian Zhang, Ge Yang, Runwei Ding, **Yidi Li**. Cascade RDN: Towards Accurate Localization in Industrial Visual Anomaly Detection with Structural Anomaly Generation, IEEE Robotics and Automation Letters, 2023.
+- **[9]** **Yidi Li**, Hong Liu, Hao Tang. Multi-modal perception attention network with self supervised learning for audio-visual speaker tracking, Proceedings of the AAAI Conference on Artificial Intelligence (AAAI). 2022. 
+- [10] Peini Guo, Zhengyan Chen, **Yidi Li**, and Hong Liu. Audio-visual fusion network based on conformer for multimodal emotion recognition. Artificial Intelligence (CICAI), 2022.
+- [11] Hong Liu, Yongheng Sun, **Yidi Li**, Bing Yang. 3D audio-visual speaker tracking with a novel particle filter. Proceedings of International Conference on Pattern Recognition (ICPR), 2021.
+- **[12]** **Yidi Li**, Hong Liu, Bing Yang, Runwei Ding, Yang Chen. Deep metric learning-assisted 3d audio-visual speaker tracking via two-layer particle filter. Complexity, 2020.
+- [13] Hong Liu, **Yidi Li**, Bing Yang. 3D audio-visual speaker tracking with a two-layer particle filter. Proceedings of IEEE International Conference on Image Processing (ICIP), 2019. 
 
 
 
