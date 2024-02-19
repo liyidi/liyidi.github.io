@@ -28,11 +28,11 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 # 📜 Research Area
 Multi-modal Learning: 
 
-Speaker Tracking, Sound Source Localization, Speech Recognition, Audio-Visual Event Localization, Emotion Recognition
+Speaker tracking, Sound source localization, Speech recognition, Audio-visual event localization, Emotion recognition
 
 Computer Vision:
 
-Industrial Vision, Action Recognition, Object Tracking
+Industrial vision, Action recognition, Object tracking
 
 
 # 💻 Research Experiences
