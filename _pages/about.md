@@ -26,11 +26,11 @@ Yidi Li is currently an associate professor in the College of Computer Science a
 Yidi Li's research work centers on audio-visual fusion, and is dedicated to improving the model's adaptability and robustness in complex dynamic scenarios by investigating multimodal heterogeneous data fusion problems, and multimodal multilevel information interaction problems. Her research interests include audio-visual learning, sound source localization, speech recognition, and speaker tracking.
 
 # 📜 Research Area
-**Multi-modal Learning:** 
+- **Multi-modal Learning:** 
 
 Speaker tracking, Sound source localization, Speech recognition, Audio-visual event localization, Emotion recognition
 
-**Computer Vision:**
+- **Computer Vision:**
 
 Industrial vision, Action recognition, Object tracking
 
