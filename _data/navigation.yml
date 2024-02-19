@@ -5,8 +5,8 @@ main:
 
   # - title: "News"
   #   url: "/#-news"
-  - title: "Research Area"
-   url: "/#-Research Area"
+  # - title: "Research Area"
+  #  url: "/#-Research Area"
 
   - title: "Research Experiences"
     url: "/#-research-experiences"
