@@ -12,15 +12,15 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
 
 
   - title: "Certifications and Awards"
     url: "/#-certifications-and-awards"
 
-  - title: "Projects"
-    url: "/#-projects"
+  # - title: "Projects"
+  #   url: "/#-projects"
 
-  - title: "Reviewer"
-    url: "/#-reviewer"
+  # - title: "Reviewer"
+  #   url: "/#-reviewer"
