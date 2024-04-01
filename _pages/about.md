@@ -43,6 +43,7 @@ Industrial vision, Action recognition, Object tracking
 
 # 📝 Publications 
 
+- [1] Tao Wang, Mengyuan Liu, Hong Liu, Wenhao Li, Miaoju Ban, Tianyu Guo and **Yidi Li**. Feature Completion Transformer for Occluded Person Re-identification. IEEE Transactions on Multimedia, 2024. (SCI Q1-top)
 - [1] Zhenhuan Xu, Yongfei Wu, Liming Zhang, **Yidi Li**, Adaptive Fourier Decomposition Based Signal Extraction on Weak Electromagnetic Field, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. 
 - [2] Ruijia Fan, Hong Liu, **Yidi Li**, ATTA-NET: Attention Aggregation Network for Audio-Visual Emotion Recognition, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. 
 - [3] **Yidi Li**, Guoquan Wang, Zhan Chen, Hao Tang, and Hong Liu. On-Device Audio-Visual Multi-Person Wake Word Spotting, CAAI Transactions on Intelligence Technology (**CAAI TRIT**), 2023. 
