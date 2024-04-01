@@ -59,8 +59,9 @@ Industrial vision, Action recognition, Object tracking
 - [14] Hong Liu, **Yidi Li**, Bing Yang. 3D Audio-Visual Speaker Tracking with a Two-Layer Particle Filter. Proceedings of IEEE International Conference on Image Processing (**ICIP**), 2019. 
 
 
-# 📝 Certifications and Awards
-
+# 🎖 Certifications and Awards
+- The 16th National 3D Digital Innovation Design Competition, 2023, National First Prize.
+- The 20th National College Student Information Security and Adversarial Technology Competition, 2023, National First Prize
 
 <!-- Google Analytics -->
 <script async src="https://catherine-qian.github.io/"></script>
