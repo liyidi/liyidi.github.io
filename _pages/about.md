@@ -43,16 +43,16 @@ Industrial vision, Action recognition, Object tracking
 
 # 📝 Publications 
 
-- [1] Tao Wang, Mengyuan Liu, Hong Liu, Wenhao Li, Miaoju Ban, Tianyu Guo and **Yidi Li**. Feature Completion Transformer for Occluded Person Re-identification. IEEE Transactions on Multimedia (**TMM**), 2024. (SCI Q1-top)
-- [2] Zhenhuan Xu, Yongfei Wu, Liming Zhang, **Yidi Li**, Adaptive Fourier Decomposition Based Signal Extraction on Weak Electromagnetic Field, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. (CCF B)
-- [3] Ruijia Fan, Hong Liu, **Yidi Li**, ATTA-NET: Attention Aggregation Network for Audio-Visual Emotion Recognition, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. (CCF B)
-- [4] **Yidi Li**, Guoquan Wang, Zhan Chen, Hao Tang, and Hong Liu. On-Device Audio-Visual Multi-Person Wake Word Spotting, CAAI Transactions on Intelligence Technology (**CAAI TRIT**), 2023. (JCR Q1)
-- [5] **Yidi Li**, Jiale Ren, Yawei Wang, Xia Li, and Hong Liu. Audio-Visual Keyword Transformer for Unconstrained Sentence-Level Keyword Spotting, CAAI Transactions on Intelligence Technology (**CAAI TRIT**), 2023. (JCR Q1)
+- [1] Tao Wang, Mengyuan Liu, Hong Liu, Wenhao Li, Miaoju Ban, Tianyu Guo and **Yidi Li**. Feature Completion Transformer for Occluded Person Re-identification. IEEE Transactions on Multimedia (**TMM**), 2024. <font color=red>(SCI Q1-top)</font>
+- [2] Zhenhuan Xu, Yongfei Wu, Liming Zhang, **Yidi Li**, Adaptive Fourier Decomposition Based Signal Extraction on Weak Electromagnetic Field, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. <font color=red>(CCF B)</font>
+- [3] Ruijia Fan, Hong Liu, **Yidi Li**, ATTA-NET: Attention Aggregation Network for Audio-Visual Emotion Recognition, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. <font color=red>(CCF B)</font>
+- [4] **Yidi Li**, Guoquan Wang, Zhan Chen, Hao Tang, and Hong Liu. On-Device Audio-Visual Multi-Person Wake Word Spotting, CAAI Transactions on Intelligence Technology (**CAAI TRIT**), 2023. <font color=red>(JCR Q1)</font>
+- [5] **Yidi Li**, Jiale Ren, Yawei Wang, Xia Li, and Hong Liu. Audio-Visual Keyword Transformer for Unconstrained Sentence-Level Keyword Spotting, CAAI Transactions on Intelligence Technology (**CAAI TRIT**), 2023. <font color=red>(JCR Q1)</font>
 - [6] Guoquan Wang, Hong Liu, Tianyu Guo, Jingwen Guo, Ti Wang, **Yidi Li**. Self-supervised 3D Skeleton Representation Learning with Active Sampling and Adaptive Relabeling for Action Recognition. Proceedings of IEEE International Conference on Image Processing (**ICIP**), 2023. 
 - [7] Xingyue Shi, Hong Liu, Wei Shi, Zihui Zhou, **Yidi Li**. Boosting Person Re-Identification with Viewpoint Contrastive Learning and Adversarial Training. Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023. 
 - [8] Wanruo Zhang, Hong Liu, Jianbing Wu, **Yidi Li**. MVSSC: Meta Reinforcement Learning Based Visual lndoor Navication Using Multi-view Semantic Spatial Context, Pattern Recognition Letters (**PRL**). 2023. 
 - [9] Jian Zhang, Ge Yang, Runwei Ding, **Yidi Li**. Cascade RDN: Towards Accurate Localization in Industrial Visual Anomaly Detection with Structural Anomaly Generation, IEEE Robotics and Automation Letters (**RAL**), 2023.
-- [10] **Yidi Li**, Hong Liu, Hao Tang. Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking, Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**) (**Oral**). 2022. (CCF A)
+- [10] **Yidi Li**, Hong Liu, Hao Tang. Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking, Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**) <font color=red>(Oral)</font>. 2022. <font color=red>(CCF A)</font>
 - [11] Peini Guo, Zhengyan Chen, **Yidi Li**, and Hong Liu. Audio-Visual Fusion Network Based on Conformer for Multimodal Emotion Recognition. Artificial Intelligence (**CICAI**), 2022.
 - [12] Hong Liu, Yongheng Sun, **Yidi Li**, Bing Yang. 3D Audio-Visual Speaker Tracking with a Novel Particle Filter. Proceedings of International Conference on Pattern Recognition (**ICPR**), 2021.
 - [13] **Yidi Li**, Hong Liu, Bing Yang, Runwei Ding, Yang Chen. Deep Metric Learning-Assisted 3D Audio-Visual Speaker Tracking via Two-Layer Particle Filter. **Complexity**, 2020.
@@ -60,8 +60,8 @@ Industrial vision, Action recognition, Object tracking
 
 
 # 🎖 Certifications and Awards
-- The 16th National 3D Digital Innovation Design Competition, 2023, <font color=red>**National First Prize**</font>.
-- The 20th National College Student Information Security and Adversarial Technology Competition, 2023, <font color=red>**National First Prize**</font>.
+- The 16th National 3D Digital Innovation Design Competition, 2023, <font color=red>National First Prize</font>.
+- The 20th National College Student Information Security and Adversarial Technology Competition, 2023, <font color=red>National First Prize</font>.
 
 <!-- Google Analytics -->
 <script async src="https://catherine-qian.github.io/"></script>
