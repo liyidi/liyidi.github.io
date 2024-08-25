@@ -91,7 +91,7 @@ Industrial vision, Action recognition, Object tracking
 - [13] **Yidi Li**, Hong Liu, Bing Yang, Runwei Ding, Yang Chen. Deep Metric Learning-Assisted 3D Audio-Visual Speaker Tracking via Two-Layer Particle Filter. **Complexity**, 2020.
 - [14] Hong Liu, **Yidi Li**, Bing Yang. 3D Audio-Visual Speaker Tracking with a Two-Layer Particle Filter. Proceedings of IEEE International Conference on Image Processing (**ICIP**), 2019. 
 
-# 🌟 Certifications and Awards
+# 🌟 Projects
 - [1] Young Scientists Fund of the National Natural Science Foundation of China, 2024.
 - [2] Scientific and Technologial Innovation Programs of Higher Education Institutions in Shanxi, 2024.
 - [3] Shanxi Provincial Department of Science and Technology Basic Research Project, 2024.
