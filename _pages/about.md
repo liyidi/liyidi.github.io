@@ -26,7 +26,7 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 # 📣📣 Call for members📣📣
 <span style="color:red;"><strong>MIHRI Lab现正招收2025年入学的研究生！</strong></span>
 
-<font color=red>我们寻求对人工智能、机器人技术、计算机视觉等领域充满热情的优秀保研/考研学生。欢迎编程能力较好、有深度学习实践经验、程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学与我联系（_liyidi@tyut.edu.cn_），也欢迎大一/大二的优秀本科生进组学习。</font><br>
+<font color=red>我们寻求对人工智能、机器人技术、计算机视觉等领域充满热情的优秀保研/考研学生。欢迎编程能力较好、有深度学习实践经验、程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学与我联系（liyidi@tyut.edu.cn），也欢迎大一/大二的优秀本科生进组学习。</font><br>
 
 <span style="color:red;"><strong>MIHRI Lab将为成员提供：</strong></span><br>
 
