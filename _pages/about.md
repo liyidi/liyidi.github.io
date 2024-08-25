@@ -38,13 +38,14 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - 2024.8 🌟Young Scientists Fund of the National Natural Science Foundation of China approved!
 - 2024.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
 - 2024.8 📄One CSWC paper accepted!
-- 2024.7 🏆Dr. Li awarded the 2024 ACM Rising Star Award (Taiyuan Branch)!
+- 2024.7 🏆Dr. Li awarded the 2024 ACM Rising Star Award (Taiyuan!
 - 2024.7 📄One BIBM paper accepted!
 - 2024.7 🌟Innovation Project for Higher Education Institutions in Shanxi Province approved!
 - 2024.7 📄One ACAIT paper accepted!
 - 2024.5 🌟Youth Project of the Shanxi Province Basic Research Program approved!
 - 2024.4 📄One TMM paper accepted!
 - 2024.3 🏆Dr. Li selected as the Shanxi representative for the "Youth Scientist Hundred Cities Tour" by the China Association for Science and Technology!
+- 2023.12 📄Two ICASSP papers accepted!
 <!-- 2024.8 国家自然科学基金青年项目获批！
 2024.8 MIHRI Lab优秀本科生暑期集训圆满结束！
 2024.8 一篇CSWC论文被接收！
@@ -54,7 +55,8 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 2024.7 一篇ACAIT论文被接收！
 2024.5 山西省基础研究计划青年项目获批！
 2024.4 一篇TMM论文被接收！
-2024.3 Dr.Li被选为中国科协“青年科学家百城行”山西代表！-->
+2024.3 Dr.Li被选为中国科协“青年科学家百城行”山西代表！
+2023.12 两篇ICASSP论文被接收-->
 
 # 📜 Research Area
 - **Multi-modal Learning:** 
@@ -89,8 +91,13 @@ Industrial vision, Action recognition, Object tracking
 - [13] **Yidi Li**, Hong Liu, Bing Yang, Runwei Ding, Yang Chen. Deep Metric Learning-Assisted 3D Audio-Visual Speaker Tracking via Two-Layer Particle Filter. **Complexity**, 2020.
 - [14] Hong Liu, **Yidi Li**, Bing Yang. 3D Audio-Visual Speaker Tracking with a Two-Layer Particle Filter. Proceedings of IEEE International Conference on Image Processing (**ICIP**), 2019. 
 
+# 🌟 Certifications and Awards
+- [1] Young Scientists Fund of the National Natural Science Foundation of China, 2024.
+- [2] Scientific and Technologial Innovation Programs of Higher Education Institutions in Shanxi, 2024.
+- [3] Shanxi Provincial Department of Science and Technology Basic Research Project, 2024.
 
 # 🎖 Certifications and Awards
+- 2024 ACM Rising Star Award (Taiyuan)
 - The 16th National 3D Digital Innovation Design Competition, 2023, <font color=red>National First Prize</font>. (Competition Supervisor)
 - The 20th National College Student Information Security and Adversarial Technology Competition, 2023, <font color=red>National First Prize</font>. (Competition Supervisor)
 
