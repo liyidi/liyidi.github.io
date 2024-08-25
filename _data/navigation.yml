@@ -3,16 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  # - title: "News"
-  #   url: "/#-news"
-  # - title: "Research Area"
-  #  url: "/#-Research Area"
+  - title: "News"
+    url: "/#-news"
+    
+  - title: "Research Area"
+    url: "/#-Research Area"
 
   - title: "Research Experiences"
     url: "/#-research-experiences"
 
   - title: "Publications"
     url: "/#-publications"
+
+  - title: "Projects"
+    url: "/#-projects"
 
   - title: "Certifications and Awards"
     url: "/#-certifications-and-awards"
