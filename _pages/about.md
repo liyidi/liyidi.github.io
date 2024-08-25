@@ -76,6 +76,9 @@ Industrial vision, Action recognition, Object tracking
 
 
 # 📝 Publications 
+- [17] Zihao Mi, Xueyu Liu, Jianan Zhang, Guangze Shi, **Yidi Li**, and Yongfei Wu. Multi-instance Curriculum Learning for Histopathology Image Classifications with Hard Negative Mining and Positive Augmentation. **BIBM**, 2024.<font color=red>(CCF B)</font>
+- [16] Linhui Sun, **Yidi Li**, Xujiao Zhao, Kaiyi Wang, Hao Guo*. Event-RGB Fusion for insulator Defect Detection Based on lmproved YOLOv8. ACAIT, 2024.
+- [15] **Yidi Li**, Kairan Zhang, Chenxu Yang, Sizhou Liu, Hao Guo, Hongfei Zhang. A Synthesis Library Subset Screening Method for High Energy Efficiency Requirements. CWSN, 2024.
 - [14] Tao Wang, Mengyuan Liu, Hong Liu, Wenhao Li, Miaoju Ban, Tianyu Guo and **Yidi Li**. Feature Completion Transformer for Occluded Person Re-identification. IEEE Transactions on Multimedia (**TMM**), 2024. <font color=red>(SCI Q1-top)</font>
 - [13] Zhenhuan Xu, Yongfei Wu, Liming Zhang, **Yidi Li**, Adaptive Fourier Decomposition Based Signal Extraction on Weak Electromagnetic Field, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. <font color=red>(CCF B)</font>
 - [12] Ruijia Fan, Hong Liu, **Yidi Li**, ATTA-NET: Attention Aggregation Network for Audio-Visual Emotion Recognition, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. <font color=red>(CCF B)</font>
