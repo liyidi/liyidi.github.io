@@ -32,7 +32,7 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 
 - <font color=red>前沿研究：参与丰富的前沿研究课题。</font>
 - <font color=red>学术交流：参加国内/国际会议，扩展学术视野。</font>
-- <font color=red>国际合作: 海外名校合作专家联合指导。</font>
+- <font color=red>国际合作：海外名校合作专家联合指导。</font>
 - <font color=red>学习访问：优秀学生可推荐至国内外知名院校学习访问。</font>
   
 # 🥳 News
