@@ -28,12 +28,11 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 
 <font color=red>我们寻求对人工智能、机器人技术、计算机视觉等领域充满热情的优秀保研/考研学生。欢迎编程能力较好、有深度学习实践经验、程序设计竞赛或者科研经历，有志于攻读硕士博士研究生和出国深造的同学与我联系(liyidi@tyut.edu.cn)，也欢迎大一/大二的优秀本科生进组学习。</font><br>
 
-
-**MIHRI Lab将提供：** <br>
-**- 前沿研究：参与丰富前沿研究课题。** <br>
-**- 学术交流：参加国内/国际会议，扩展学术视野。** <br>
-**- 国际合作: 海外名校合作专家联合指导。** <br>
-**- 学习访问：优秀学生可推荐至国内外知名院校学习访问。** <br>
+<span style="color:red;"><strong>MIHRI Lab将为成员提供：</strong></span>
+- 前沿研究：参与丰富前沿研究课题。
+- 学术交流：参加国内/国际会议，扩展学术视野。
+- 国际合作: 海外名校合作专家联合指导。
+- 学习访问：优秀学生可推荐至国内外知名院校学习访问。
 
 # 📜 Research Area
 - **Multi-modal Learning:** 
