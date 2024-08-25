@@ -23,7 +23,7 @@ Yidi Li is currently an associate professor in the College of Computer Science a
 
 Yidi Li's research work centers on audio-visual fusion, and is dedicated to improving the model's adaptability and robustness in complex dynamic scenarios by investigating multimodal heterogeneous data fusion problems, and multimodal multilevel information interaction problems. Her research interests include audio-visual learning, sound source localization, speech recognition, and speaker tracking.
 
-# 📣📣📣 Call for members
+# 📣📣 Call for members📣📣
 <span style="color:red;"><strong>MIHRI Lab现正招收2025年入学的研究生！</strong></span>
 
 <font color=red>我们寻求对人工智能、机器人技术、计算机视觉等领域充满热情的优秀保研/考研学生。欢迎编程能力较好、有深度学习实践经验、程序设计竞赛或者科研经历，有志于攻读硕士博士研究生和出国深造的同学与我联系(liyidi@tyut.edu.cn)，也欢迎大一/大二的优秀本科生进组学习。</font><br>
@@ -33,6 +33,31 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - 学术交流：参加国内/国际会议，扩展学术视野。
 - 国际合作: 海外名校合作专家联合指导。
 - 学习访问：优秀学生可推荐至国内外知名院校学习访问。
+  
+# 🥳 News
+- 2024.8 🌟Young Scientists Fund of the National Natural Science Foundation of China approved!
+- 2024.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
+- 2024.8 📄One CSWC paper accepted!
+- 2024.7 🏆Dr. Li awarded the 2024 ACM Rising Star Award (Taiyuan Branch)!
+- 2024.7 📄One BIBM paper accepted!
+- 2024.7 🌟Innovation Project for Higher Education Institutions in Shanxi Province approved!
+- 2024.7 📄One ACAIT paper accepted!
+- 2024.5 🌟Youth Project of the Shanxi Province Basic Research Program approved!
+- 2024.4 📄One TMM paper accepted!
+- 2024.3 🏆Dr. Li selected as the Shanxi representative for the "Youth Scientist Hundred Cities Tour" by the China Association for Science and Technology!
+<!-- 
+2024.8 国家自然科学基金青年项目获批！
+2024.8 MIHRI Lab优秀本科生暑期集训圆满结束！
+2024.8 一篇CSWC论文被接收！
+2024.7 Dr.Li荣获2024ACM新星奖（太原分会）
+2024.7 一篇BIBM论文被接收！
+2024.7 山西省高等学校科技创新项目获批！
+2024.7 一篇ACAIT论文被接收！
+2024.5 山西省基础研究计划青年项目获批！
+2024.4 一篇TMM论文被接收！
+2024.3 Dr.Li被选为中国科协“青年科学家百城行”山西代表！
+
+-->
 
 # 📜 Research Area
 - **Multi-modal Learning:** 
