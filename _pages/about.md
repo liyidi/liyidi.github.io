@@ -60,8 +60,8 @@ Industrial vision, Action recognition, Object tracking
 
 
 # 🎖 Certifications and Awards
-- The 16th National 3D Digital Innovation Design Competition, 2023, <font color=red>National First Prize</font>. <font color=red>(Competition Supervisor)</font>
-- The 20th National College Student Information Security and Adversarial Technology Competition, 2023, <font color=red>National First Prize</font>. <font color=red>(Competition Supervisor)</font>
+- The 16th National 3D Digital Innovation Design Competition, 2023, <font color=red>National First Prize</font>. (Competition Supervisor)
+- The 20th National College Student Information Security and Adversarial Technology Competition, 2023, <font color=red>National First Prize</font>. (Competition Supervisor)
 
 <!-- Google Analytics -->
 <script async src="https://catherine-qian.github.io/"></script>
