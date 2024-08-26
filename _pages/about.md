@@ -39,7 +39,7 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - 2024.8 🌟Young Scientists Fund of the National Natural Science Foundation of China approved!
 - 2024.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
 - 2024.8 📄One CSWC paper accepted!
-- 2024.7 🏆Dr. Li awarded the 2024 ACM Rising Star Award (Taiyuan!
+- 2024.7 🏆Dr. Li awarded the 2024 ACM Rising Star Award (Taiyuan)!
 - 2024.7 📄One BIBM paper accepted!
 - 2024.7 🌟Innovation Project for Higher Education Institutions in Shanxi Province approved!
 - 2024.7 📄One ACAIT paper accepted!
