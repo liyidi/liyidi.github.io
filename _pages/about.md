@@ -76,7 +76,7 @@ Industrial vision, Action recognition, Object tracking
 
 
 # 📝 Publications 
-- [17] Zihao Mi, Xueyu Liu, Jianan Zhang, Guangze Shi, **Yidi Li**, and Yongfei Wu. Multi-instance Curriculum Learning for Histopathology Image Classifications with Hard Negative Mining and Positive Augmentation. **BIBM**, 2024.<font color=red>(CCF B)</font>
+- [17] Zihao Mi, Xueyu Liu, Jianan Zhang, Guangze Shi, **Yidi Li**, and Yongfei Wu. Multi-instance Curriculum Learning for Histopathology Image Classifications with Hard Negative Mining and Positive Augmentation. **BIBM**, 2024.<font color=red> (CCF B)</font>
 - [16] Linhui Sun, **Yidi Li**, Xujiao Zhao, Kaiyi Wang, Hao Guo*. Event-RGB Fusion for insulator Defect Detection Based on lmproved YOLOv8. ACAIT, 2024.
 - [15] **Yidi Li**, Kairan Zhang, Chenxu Yang, Sizhou Liu, Hao Guo, Hongfei Zhang. A Synthesis Library Subset Screening Method for High Energy Efficiency Requirements. CWSN, 2024.
 - [14] Tao Wang, Mengyuan Liu, Hong Liu, Wenhao Li, Miaoju Ban, Tianyu Guo and **Yidi Li**. Feature Completion Transformer for Occluded Person Re-identification. IEEE Transactions on Multimedia (**TMM**), 2024. <font color=red>(SCI Q1-top)</font>
@@ -85,11 +85,11 @@ Industrial vision, Action recognition, Object tracking
 - [11] **Yidi Li**, Guoquan Wang, Zhan Chen, Hao Tang, and Hong Liu. On-Device Audio-Visual Multi-Person Wake Word Spotting, CAAI Transactions on Intelligence Technology (**CAAI TRIT**), 2023. <font color=red>(JCR Q1)</font>
 - [10] **Yidi Li**, Jiale Ren, Yawei Wang, Xia Li, and Hong Liu. Audio-Visual Keyword Transformer for Unconstrained Sentence-Level Keyword Spotting, CAAI Transactions on Intelligence Technology (**CAAI TRIT**), 2023. <font color=red>(JCR Q1)</font>
 - [9] Guoquan Wang, Hong Liu, Tianyu Guo, Jingwen Guo, Ti Wang, **Yidi Li**. Self-supervised 3D Skeleton Representation Learning with Active Sampling and Adaptive Relabeling for Action Recognition. Proceedings of IEEE International Conference on Image Processing (**ICIP**), 2023. 
-- [8] Xingyue Shi, Hong Liu, Wei Shi, Zihui Zhou, **Yidi Li**. Boosting Person Re-Identification with Viewpoint Contrastive Learning and Adversarial Training. Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023. 
-- [7] Wanruo Zhang, Hong Liu, Jianbing Wu, **Yidi Li**. MVSSC: Meta Reinforcement Learning Based Visual lndoor Navication Using Multi-view Semantic Spatial Context, Pattern Recognition Letters (**PRL**). 2023. 
-- [6] Jian Zhang, Ge Yang, Runwei Ding, **Yidi Li**. Cascade RDN: Towards Accurate Localization in Industrial Visual Anomaly Detection with Structural Anomaly Generation, IEEE Robotics and Automation Letters (**RAL**), 2023.
+- [8] Xingyue Shi, Hong Liu, Wei Shi, Zihui Zhou, **Yidi Li**. Boosting Person Re-Identification with Viewpoint Contrastive Learning and Adversarial Training. Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023. <font color=red>(CCF B)</font>
+- [7] Wanruo Zhang, Hong Liu, Jianbing Wu, **Yidi Li**. MVSSC: Meta Reinforcement Learning Based Visual lndoor Navication Using Multi-view Semantic Spatial Context, Pattern Recognition Letters (**PRL**). 2023. <font color=red>(CAAI B)</font>
+- [6] Jian Zhang, Ge Yang, Runwei Ding, **Yidi Li**. Cascade RDN: Towards Accurate Localization in Industrial Visual Anomaly Detection with Structural Anomaly Generation, IEEE Robotics and Automation Letters (**RAL**), 2023. <font color=red>(CAAI B)</font>
 - [5] **Yidi Li**, Hong Liu, Hao Tang. Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking, Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**) <font color=red>(Oral)</font>. 2022. <font color=red>(CCF A)</font>
-- [4] Peini Guo, Zhengyan Chen, **Yidi Li**, and Hong Liu. Audio-Visual Fusion Network Based on Conformer for Multimodal Emotion Recognition. Artificial Intelligence (**CICAI**), 2022.
+- [4] Peini Guo, Zhengyan Chen, **Yidi Li**, and Hong Liu. Audio-Visual Fusion Network Based on Conformer for Multimodal Emotion Recognition. Artificial Intelligence (**CICAI**), 2022. <font color=red>(CAAI A)</font>
 - [3] Hong Liu, Yongheng Sun, **Yidi Li**, Bing Yang. 3D Audio-Visual Speaker Tracking with a Novel Particle Filter. Proceedings of International Conference on Pattern Recognition (**ICPR**), 2021.
 - [2] **Yidi Li**, Hong Liu, Bing Yang, Runwei Ding, Yang Chen. Deep Metric Learning-Assisted 3D Audio-Visual Speaker Tracking via Two-Layer Particle Filter. **Complexity**, 2020.
 - [1] Hong Liu, **Yidi Li**, Bing Yang. 3D Audio-Visual Speaker Tracking with a Two-Layer Particle Filter. Proceedings of IEEE International Conference on Image Processing (**ICIP**), 2019. 
