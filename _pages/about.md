@@ -36,6 +36,7 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - <font color=red>学习访问：优秀学生可推荐至国内外知名院校学习访问。</font>
   
 # 🥳 News
+- 2024.9 📄One TMM paper accepted! (SCI Q1 TOP)
 - 2024.8 🌟Young Scientists Fund of the National Natural Science Foundation of China approved!
 - 2024.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
 - 2024.8 📄One CSWC paper accepted!
@@ -76,6 +77,7 @@ Industrial vision, Action recognition, Object tracking
 
 
 # 📝 Publications 
+- [18] **Yidi Li**, Hong Liu, Bing Yang. STNet: Deep Audio-Visual Fusion Network for Robust Speaker Tracking. IEEE Transactions on Multimedia (**TMM**), 2024. <font color=red>(SCI Q1-top)</font>
 - [17] Zihao Mi, Xueyu Liu, Jianan Zhang, Guangze Shi, **Yidi Li**, and Yongfei Wu. Multi-instance Curriculum Learning for Histopathology Image Classifications with Hard Negative Mining and Positive Augmentation. **BIBM**, 2024.<font color=red> (CCF B)</font>
 - [16] Linhui Sun, **Yidi Li**, Xujiao Zhao, Kaiyi Wang, Hao Guo*. Event-RGB Fusion for insulator Defect Detection Based on lmproved YOLOv8. ACAIT, 2024.
 - [15] **Yidi Li**, Kairan Zhang, Chenxu Yang, Sizhou Liu, Hao Guo, Hongfei Zhang. A Synthesis Library Subset Screening Method for High Energy Efficiency Requirements. CWSN, 2024.
