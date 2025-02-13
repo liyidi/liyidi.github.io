@@ -107,8 +107,8 @@ Industrial vision, Action recognition, Object tracking
 
 # 🏅 Certifications and Awards
 - 2024 <font color=red>ACM Rising Star Award</font>. (Taiyuan)
-- The 16th National 3D Digital Innovation Design Competition 全国三维数字化创新设计大赛（A类学科竞赛）, 2023, <font color=red>National First Prize</font>. (Competition Supervisor)
-- The 20th National College Student Information Security and Adversarial Technology Competition 全国大学生信息安全与对抗技术竞赛（A类学科竞赛）, 2023, <font color=red>National First Prize</font>. (Competition Supervisor)
+- The National 3D Digital Innovation Design Competition 全国三维数字化创新设计大赛（A类学科竞赛）, 2024, <font color=red>National First Prize</font>. (Competition Supervisor)
+- The National College Student Information Security and Adversarial Technology Competition 全国大学生信息安全与对抗技术竞赛（A类学科竞赛）, 2024, <font color=red>National First Prize</font>. (Competition Supervisor)
 
 <!-- Google Analytics -->
 <script async src="https://catherine-qian.github.io/"></script>
