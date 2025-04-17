@@ -38,7 +38,7 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 # 🥳 News
 - 2025.4📄Two ESWA papers accepted! (🚩SCI Q1 TOP)
 - 2024.12📄One ICASSP paper accepted!
-- 2024.12📄Two CAAI papers accepted! (🚩SCI Q1 TOP)
+- 2024.12📄Two CAAI TIT papers accepted! (🚩SCI Q1 TOP)
 - 2024.11🏆Dr. Li awarded IEEE Outstanding Service Award at the 2024 IEEE Smart World Congress!
 - 2024.9 📄One TMM paper accepted! (🚩SCI Q1 TOP)
 - 2024.8 🌟Young Scientists Fund of the National Natural Science Foundation of China approved!
@@ -49,7 +49,7 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - 2024.7 🌟Innovation Project for Higher Education Institutions in Shanxi Province approved!
 - 2024.7 📄One ACAIT paper accepted!
 - 2024.5 🌟Youth Project of the Shanxi Province Basic Research Program approved!
-- 2024.4 📄One TMM paper accepted!
+- 2024.4 📄One TMM paper accepted! (🚩SCI Q1 TOP)
 
 <!-- 2024.8 国家自然科学基金青年项目获批！
 2024.8 MIHRI Lab优秀本科生暑期集训圆满结束！
