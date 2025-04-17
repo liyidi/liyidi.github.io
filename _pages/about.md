@@ -107,7 +107,7 @@ Industrial vision, Action recognition, Object tracking
 - [3] Shanxi Provincial Department of Science and Technology Basic Research Project, 2024.
 
 # 🏅 Certifications and Awards
-- 2024 <font color=red>ACM Rising Star Award</font>. (Taiyuan)
+- 2024 <font color=red>ACM Rising Star Award</font>. (Taiyuan chapter)
 - The National 3D Digital Innovation Design Competition 全国三维数字化创新设计大赛（A类学科竞赛）, 2024, <font color=red>National First Prize</font>. (Competition Supervisor)
 - The National College Student Information Security and Adversarial Technology Competition 全国大学生信息安全与对抗技术竞赛（A类学科竞赛）, 2024, <font color=red>National First Prize</font>. (Competition Supervisor)
 
