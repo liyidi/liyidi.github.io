@@ -24,7 +24,7 @@ Yidi Li is currently an _Associate Professor_ in the College of Computer Science
 Yidi Li's research work centers on audio-visual fusion, and is dedicated to improving the model's adaptability and robustness in complex dynamic scenarios by investigating multimodal heterogeneous data fusion problems, and multimodal multilevel information interaction problems. Her research interests include audio-visual learning, sound source localization, speech recognition, and speaker tracking.
 
 # 📣📣 Call for members📣📣
-<span style="color:red;"><strong>***[多模态智能人机交互实验室](https://lab.rjmart.cn/11097/MIHRI)***(MIHRI Lab)现正招收2025、2026年入学的研究生，大一/大二优秀本科生！</strong></span>
+<span style="color:red;"><strong>***[多模态智能人机交互实验室](https://lab.rjmart.cn/11097/MIHRI)***(MIHRI Lab)现正招收2026、2027年入学的研究生，大一/大二优秀本科生！</strong></span>
 
 <font color=red>我们寻求对人工智能、机器人技术、计算机视觉等领域充满热情的优秀保研/考研学生。欢迎编程能力较好、有深度学习实践经验、程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学与我联系（liyidi@tyut.edu.cn），也欢迎大一/大二的优秀本科生进组学习。</font><br>
 
@@ -36,10 +36,11 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - <font color=red>学习访问：优秀学生可推荐至国内外知名院校学习访问。</font>
   
 # 🥳 News
+- 2025.4📄Two ESWA papers accepted! (🚩SCI Q1 TOP)
 - 2024.12📄One ICASSP paper accepted!
-- 2024.12📄Two CAAI papers accepted!
+- 2024.12📄Two CAAI papers accepted! (🚩SCI Q1 TOP)
 - 2024.11🏆Dr. Li awarded IEEE Outstanding Service Award at the 2024 IEEE Smart World Congress!
-- 2024.9 📄One TMM paper accepted! (SCI Q1 TOP)
+- 2024.9 📄One TMM paper accepted! (🚩SCI Q1 TOP)
 - 2024.8 🌟Young Scientists Fund of the National Natural Science Foundation of China approved!
 - 2024.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
 - 2024.8 📄One CWSN paper accepted!
