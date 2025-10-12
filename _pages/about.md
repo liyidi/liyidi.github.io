@@ -19,7 +19,7 @@ redirect_from:
 
 # **About Me**
 
-Yidi Li is currently an _Associate Professor_ in the College of Computer Science and Technology at Taiyuan University of Technology (太原理工大学, 计算机科学与技术学院), and the director of the _Multimodal Intelligent Human-Robot Interaction Laboratory (**[多模态智能人机交互实验室](https://lab.rjmart.cn/11097/MIHRI)**, MIHRI Lab)_. Prior to that, she received the PhD degree in Computer Science and Technology from Peking University under the supervision of ***[Prof. Hong Liu](https://robotics.pkusz.edu.cn)*** in 2023. She has published more than 20 papers in top international conferences and SCI journals in the field of artificial intelligence. She serves as a reviewer for many important journals and conferences in the field of artificial intelligence, such as CAAI TRIT, AAAI, and ICASSP, etc. She serves as an expert judge for 3D Digital Innovation Design Competition, and other national events.
+Yidi Li is currently an _Associate Professor_ in the College of Computer Science and Technology at Taiyuan University of Technology (太原理工大学, 计算机科学与技术学院), and the director of the _Multimodal Intelligent Human-Robot Interaction Laboratory (**[多模态智能人机交互实验室](https://lab.rjmart.cn/11097/MIHRI)**, MIHRI Lab)_. Prior to that, she received the PhD degree in Computer Science and Technology from Peking University under the supervision of ***[Prof. Hong Liu](https://robotics.pkusz.edu.cn)*** in 2023. She has published more than 20 papers in top international conferences and SCI journals in the field of artificial intelligence. She serves as a reviewer for many important journals and conferences in the field of artificial intelligence, such as CAAI TRIT, PR, AAAI, and ICASSP, etc. She serves as an expert judge for various national-level college student competitions.
 
 Yidi Li's research work centers on audio-visual fusion, and is dedicated to improving the model's adaptability and robustness in complex dynamic scenarios by investigating multimodal heterogeneous data fusion problems, and multimodal multilevel information interaction problems. Her research interests include audio-visual learning, sound source localization, speech recognition, and speaker tracking.
 
@@ -33,9 +33,25 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - <font color=red>前沿研究：参与丰富的前沿研究课题。</font>
 - <font color=red>学术交流：参加国内/国际会议，扩展学术视野。</font>
 - <font color=red>国际合作：海外名校合作专家联合指导。</font>
-- <font color=red>学习访问：优秀学生可推荐至国内外知名院校学习访问。</font>
+- <font color=red>学习访问：优秀学生可推荐至国内外知名院校学习访学。</font>
   
 # 🥳 News
+- 2025.9 🏆Won The Best Student Paper Award at the 2025 ACAIT!
+- 2025.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
+- 2025.5 📄Two ICIC papers accepted!
+- 2025.4 📄Two ESWA papers accepted! (🚩SCI Q1 TOP)
+- 2024.12📄One ICASSP paper accepted!
+- 2024.12📄Two CAAI TIT papers accepted! (🚩SCI Q1 TOP)
+- 2024.11🏆Dr. Li awarded IEEE Outstanding Service Award at the 2024 IEEE Smart World Congress!
+- 2024.9 📄One TMM paper accepted! (🚩SCI Q1 TOP)
+- 2024.7 🏆Dr. Li awarded the 2024 ACM Rising Star Award (Taiyuan)!
+- 2024.7 📄One BIBM paper accepted!
+- 2024.4 📄One TMM paper accepted! (🚩SCI Q1 TOP)
+
+<!-- 
+- 2025.9 🏆Won The Best Student Paper Award at the 2025 ACAIT!
+- 2025.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
+- 2025.5 📄Two ICIC papers accepted!
 - 2025.4📄Two ESWA papers accepted! (🚩SCI Q1 TOP)
 - 2024.12📄One ICASSP paper accepted!
 - 2024.12📄Two CAAI TIT papers accepted! (🚩SCI Q1 TOP)
@@ -49,19 +65,7 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - 2024.7 🌟Innovation Project for Higher Education Institutions in Shanxi Province approved!
 - 2024.7 📄One ACAIT paper accepted!
 - 2024.5 🌟Youth Project of the Shanxi Province Basic Research Program approved!
-- 2024.4 📄One TMM paper accepted! (🚩SCI Q1 TOP)
-
-<!-- 2024.8 国家自然科学基金青年项目获批！
-2024.8 MIHRI Lab优秀本科生暑期集训圆满结束！
-2024.8 一篇CSWC论文被接收！
-2024.7 Dr.Li荣获2024ACM新星奖（太原分会）
-2024.7 一篇BIBM论文被接收！
-2024.7 山西省高等学校科技创新项目获批！
-2024.7 一篇ACAIT论文被接收！
-2024.5 山西省基础研究计划青年项目获批！
-2024.4 一篇TMM论文被接收！
-2024.3 Dr.Li被选为中国科协“青年科学家百城行”山西代表！
-2023.12 两篇ICASSP论文被接收-->
+- 2024.4 📄One TMM paper accepted! (🚩SCI Q1 TOP)-->
 
 # 📜 Research Area
 - **Multi-modal Learning:** 
@@ -77,9 +81,11 @@ Industrial vision, Action recognition, Object tracking
 - 2013.09 - 2017.07: B.Sc. in Statistics, Taiyuan University of Technology, China
 - 2017.09 - 2023.07: Ph.D. in Computer Science, Peking University, China
 - 2023.7 - Present: Associate Professor, Taiyuan University of Technology, China
+- 2025.10 - Present: Postdoctoral Researcher, Osaka University, Japan
 
 
 # 📝 Publications 
+- [21] **Yidi Li**, Jiahao Wen, Rui Gong, etc. PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection. Expert Systems With Applications, 2025. <font color=red>(SCI Q1-top)</font>
 - [20] **Yidi Li**, Hong Liu, Bing Yang. STNet: Deep Audio-Visual Fusion Network for Robust Speaker Tracking. IEEE Transactions on Multimedia (**TMM**), 2024. <font color=red>(SCI Q1-top)</font>
 - [19]	**Yidi Li**, Wenkai Zhao, Zeyu Wang, Zhenhuan Xu, Bin Ren, Nicu Sebe. Multi-Stage Multimodal Distillation for Audio-Visual Speaker Tracking, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
 - [18]	Jie Xiang, Ang Zhao, Xia Li, Xubin Wu, Yanqing Dong, Yan Niu, **Yidi Li**, Xin Wen, Enhancing Brain MRI Super-Resolution through Multi-Slice Aware Matching and Fusion, CAAI Transactions on Intelligence Technology, 2024.
