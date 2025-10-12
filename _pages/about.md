@@ -19,7 +19,7 @@ redirect_from:
 
 # **About Me**
 
-Yidi Li is currently an _Associate Professor_ in the College of Computer Science and Technology at Taiyuan University of Technology (太原理工大学, 计算机科学与技术学院), and the director of the _Multimodal Intelligent Human-Robot Interaction Laboratory (**[多模态智能人机交互实验室](https://lab.rjmart.cn/11097/MIHRI)**, MIHRI Lab)_. Prior to that, she received the PhD degree in Computer Science and Technology from Peking University under the supervision of ***[Prof. Hong Liu](https://robotics.pkusz.edu.cn)*** in 2023. She has published more than 20 papers in top international conferences and SCI journals in the field of artificial intelligence. She serves as a reviewer for many important journals and conferences in the field of artificial intelligence, such as CAAI TRIT, PR, AAAI, and ICASSP, etc. She serves as an expert judge for various national-level college student competitions.
+Yidi Li is currently an _Associate Professor_ in the College of Computer Science and Technology at Taiyuan University of Technology (太原理工大学, 计算机科学与技术学院), and the director of the _Multimodal Intelligent Human-Robot Interaction Laboratory (**[多模态智能人机交互实验室](https://lab.rjmart.cn/11097/MIHRI)**, MIHRI Lab)_. Prior to that, she received the PhD degree in Computer Science and Technology from Peking University under the supervision of ***[Prof. Hong Liu](https://robotics.pkusz.edu.cn)*** in 2023. She has published more than 30 papers in top international conferences and SCI journals in the field of artificial intelligence. She serves as a reviewer for many important journals and conferences in the field of artificial intelligence, such as CAAI TRIT, PR, AAAI, and ICASSP, etc. She serves as an expert judge for various national-level college student competitions.
 
 Yidi Li's research work centers on audio-visual fusion, and is dedicated to improving the model's adaptability and robustness in complex dynamic scenarios by investigating multimodal heterogeneous data fusion problems, and multimodal multilevel information interaction problems. Her research interests include audio-visual learning, sound source localization, speech recognition, and speaker tracking.
 
@@ -36,7 +36,7 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - <font color=red>学习访问：优秀学生可推荐至国内外知名院校学习访学。</font>
   
 # 🥳 News
-- 2025.9 🏆Won The Best Student Paper Award at the 2025 ACAIT!
+- 2025.9 🏆MIHRI Lab won the **Best Student Paper Award** at the 2025 ACAIT!
 - 2025.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
 - 2025.5 📄Two ICIC papers accepted!
 - 2025.4 📄Two ESWA papers accepted! (🚩SCI Q1 TOP)
@@ -44,7 +44,7 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - 2024.12📄Two CAAI TIT papers accepted! (🚩SCI Q1 TOP)
 - 2024.11🏆Dr. Li awarded IEEE Outstanding Service Award at the 2024 IEEE Smart World Congress!
 - 2024.9 📄One TMM paper accepted! (🚩SCI Q1 TOP)
-- 2024.7 🏆Dr. Li awarded the 2024 ACM Rising Star Award (Taiyuan)!
+- 2024.7 🏆Dr. Li awarded the **2024 ACM Rising Star Award** (Taiyuan)!
 - 2024.7 📄One BIBM paper accepted!
 - 2024.4 📄One TMM paper accepted! (🚩SCI Q1 TOP)
 
@@ -111,11 +111,13 @@ Industrial vision, Action recognition, Object tracking
 - [1] Young Scientists Fund of the National Natural Science Foundation of China, 2024.
 - [2] Scientific and Technologial Innovation Programs of Higher Education Institutions in Shanxi, 2024.
 - [3] Shanxi Provincial Department of Science and Technology Basic Research Project, 2024.
+- [4] Open Research Project of Guangdong Provincial Key Laboratory, 2025.
 
 # 🏅 Certifications and Awards
 - 2024 <font color=red>ACM Rising Star Award</font>. (Taiyuan chapter)
-- The National 3D Digital Innovation Design Competition 全国三维数字化创新设计大赛（A类学科竞赛）, 2024, <font color=red>National First Prize</font>. (Competition Supervisor)
-- The National College Student Information Security and Adversarial Technology Competition 全国大学生信息安全与对抗技术竞赛（A类学科竞赛）, 2024, <font color=red>National First Prize</font>. (Competition Supervisor)
+- 全国三维数字化创新设计大赛（A类学科竞赛）, 2024, 2025. <font color=red>国一</font>. (Supervisor)
+- 全国大学生信息安全与对抗技术竞赛（A类学科竞赛）, 2024, <font color=red>国一</font>. (Supervisor)
+- 中国机器人及人工智能大赛（A类学科竞赛）, 2025, <font color=red>国一</font>. (Supervisor)
 
 <!-- Google Analytics -->
 <script async src="https://catherine-qian.github.io/"></script>
