@@ -36,6 +36,7 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - <font color=red>学习访问：优秀学生可推荐至国内外知名院校学习访学。</font>
   
 # 🥳 News
+- 2025.12📄One CAAI TIT paper accepted! (🚩SCI Q1 TOP)
 - 2025.9 🏆MIHRI Lab won the **Best Student Paper Award** at the 2025 ACAIT!
 - 2025.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
 - 2025.5 📄Two ICIC papers accepted!
@@ -49,6 +50,7 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - 2024.4 📄One TMM paper accepted! (🚩SCI Q1 TOP)
 
 <!-- 
+- 2025.12📄One CAAI TIT paper accepted! (🚩SCI Q1 TOP)
 - 2025.9 🏆Won The Best Student Paper Award at the 2025 ACAIT!
 - 2025.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
 - 2025.5 📄Two ICIC papers accepted!
@@ -85,6 +87,7 @@ Industrial vision, Action recognition, Object tracking
 
 
 # 📝 Publications 
+- [22] Yihan Li, **Yidi Li**, etc. AVCLNet: Multimodal Multi-Speaker Tracking Network Using Audio-Visual Contrastive Learning, CAAI Transactions on Intelligence Technology (CAAI TRIT), 2025. <font color=red>(SCI Q1-top)</font>
 - [21] **Yidi Li**, Jiahao Wen, Rui Gong, etc. PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection. Expert Systems With Applications, 2025. <font color=red>(SCI Q1-top)</font>
 - [20] **Yidi Li**, Hong Liu, Bing Yang. STNet: Deep Audio-Visual Fusion Network for Robust Speaker Tracking. IEEE Transactions on Multimedia (**TMM**), 2024. <font color=red>(SCI Q1-top)</font>
 - [19]	**Yidi Li**, Wenkai Zhao, Zeyu Wang, Zhenhuan Xu, Bin Ren, Nicu Sebe. Multi-Stage Multimodal Distillation for Audio-Visual Speaker Tracking, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
