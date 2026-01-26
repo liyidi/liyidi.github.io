@@ -36,20 +36,19 @@ Yidi Li's research work centers on audio-visual fusion, and is dedicated to impr
 - <font color=red>学习访问：优秀学生可推荐至国内外知名院校学习访学。</font>
   
 # 🥳 News
+- 2026.1 📄Three ICASSP papers accepted!
 - 2025.12📄One CAAI TIT paper accepted! (🚩SCI Q1 TOP)
 - 2025.9 🏆MIHRI Lab won the **Best Student Paper Award** at the 2025 ACAIT!
-- 2025.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
 - 2025.5 📄Two ICIC papers accepted!
 - 2025.4 📄Two ESWA papers accepted! (🚩SCI Q1 TOP)
 - 2024.12📄One ICASSP paper accepted!
 - 2024.12📄Two CAAI TIT papers accepted! (🚩SCI Q1 TOP)
-- 2024.11🏆Dr. Li awarded IEEE Outstanding Service Award at the 2024 IEEE Smart World Congress!
 - 2024.9 📄One TMM paper accepted! (🚩SCI Q1 TOP)
 - 2024.7 🏆Dr. Li awarded the **2024 ACM Rising Star Award** (Taiyuan)!
-- 2024.7 📄One BIBM paper accepted!
 - 2024.4 📄One TMM paper accepted! (🚩SCI Q1 TOP)
 
 <!-- 
+- 2026.1 📄Three ICASSP papers accepted!
 - 2025.12📄One CAAI TIT paper accepted! (🚩SCI Q1 TOP)
 - 2025.9 🏆Won The Best Student Paper Award at the 2025 ACAIT!
 - 2025.8 🧑‍🤝‍🧑Successful completion of the MIHRI Lab Summer Training for outstanding undergraduate students!
