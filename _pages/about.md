@@ -78,7 +78,7 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 
   Robust perception, spatial understanding, and human-robot interaction.
 
-- **Audio-Visual and Multimodal Learning**
+- **Audio-Visual Learning**
 
   Audio-visual speaker tracking, sound source localization, event localization, and incomplete-modality learning.
 
@@ -122,7 +122,7 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 
 - Yihan Li, Yi Shi, Chongwei Yan, Hao Guo, Bin Ren, **Yidi Li**\*. **Robust Multi-View Audio-Visual Speaker Tracking via Bird’s Eye View Representation.** *Asian Conference on Artificial Intelligence Technology* (ACAIT), 2025. `Best Student Paper Award`
 
-- **Yidi Li**, Kairan Zhang, etc. **Vision-Guided Acoustic Localization with Decoupled Inference for Moving Speakers.** *International Conference on Intelligent Computing* (ICIC), 2025: 135–146. `CCF C Conference` `Oral`
+- **Yidi Li**, Kairan Zhang, etc. **Vision-Guided Acoustic Localization with Decoupled Inference for Moving Speakers.** *International Conference on Intelligent Computing* (ICIC), 2025: 135–146. `CCF C` `Oral`
 
 - Zihao Mi, Jianan Zhang, Xueyu Liu, Guanghui Yue, Junhong Yue, Mingqiang Wei, **Yidi Li**, Yongfei Wu\*. **Multi-Instance Curriculum Learning for Histopathology Image Classification with Bias Reduction.** *Medical Image Analysis*, 2025, 105: 103647. <font color=red>(SCI Q1-top)</font>
 
