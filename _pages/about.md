@@ -73,13 +73,19 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 -->
 
 # 📜 Research Area
-- **Multi-modal Learning:** 
 
-Speaker tracking, Sound source localization, Speech recognition, Audio-visual event localization, Emotion recognition
+- **Multimodal Embodied Intelligence**
 
-- **Computer Vision:**
+  Robust perception, spatial understanding, and human-robot interaction.
 
-Industrial vision, Action recognition, Object tracking
+- **Audio-Visual and Multimodal Learning**
+
+  Audio-visual speaker tracking, sound source localization, event localization, and incomplete-modality learning.
+
+- **Robotic Perception and Multimodal Sensing**
+
+  Event-based vision, event-RGB fusion, object tracking, action recognition, and industrial vision.
+  
 
 
 # 💻 Research Experiences
@@ -121,11 +127,25 @@ Industrial vision, Action recognition, Object tracking
 - [3] Shanxi Provincial Department of Science and Technology Basic Research Project, 2024.
 - [4] Open Research Project of Guangdong Provincial Key Laboratory, 2025.
 
+<!-- 
 # 🏅 Certifications and Awards
 - 2024 <font color=red>ACM Rising Star Award</font>. (Taiyuan chapter)
 - 全国三维数字化创新设计大赛（A类学科竞赛）, 2024, 2025. <font color=red>国一</font>. (Supervisor)
 - 全国大学生信息安全与对抗技术竞赛（A类学科竞赛）, 2024, <font color=red>国一</font>. (Supervisor)
 - 中国机器人及人工智能大赛（A类学科竞赛）, 2025, <font color=red>国一</font>. (Supervisor)
+-->
+
+# 🏅 Selected Honors and Services
+
+- Selected for the _2025 Sanjin Talent Program: Young Top Talent in Scientific and Technological Innovation_.
+- Recipient of the _2023 ACM Rising Star Award_ from ACM China Council Taiyuan Chapter.
+- Recipient of the _IEEE Outstanding Service Award_.
+- Supervised the student paper receiving the _Best Student Paper Award_ at the 2025 Asia Conference on Artificial Intelligence Technology.
+- Invited Speaker at the _2026 International Conference on Control and Robotics Engineering_ (ICCRE 2026).
+- Workshop Chair of _2024 IEEE Smart World Congress_ (IEEE SWC 2024).
+- Publicity Chair of _Cyberworlds 2025_.
+- Session Chair for the _2024 China Internet of Things Conference_, _2025 Asia Conference on Artificial Intelligence Technology_, and _2025 International Conference on Intelligent Computing_.
+
 
 <!-- Google Analytics -->
 <script async src="https://catherine-qian.github.io/"></script>
