@@ -27,7 +27,7 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 
 
 # 📣📣 Call for members📣📣
-<span style="color:red;"><strong>***[多模态智能人机交互实验室](https://rjsci.com/zh/lab/11097-MIHRI)***(MIHRI Lab)现正招收2026、2027年入学的研究生，大一/大二优秀本科生！</strong></span>
+<span style="color:red;"><strong>***[多模态智能人机交互实验室](https://rjsci.com/zh/lab/11097-MIHRI)***(MIHRI Lab)现正招收2027、2028年入学的研究生，大一/大二优秀本科生！</strong></span>
 
 <font color=red>我们寻求对人工智能、机器人技术、计算机视觉等领域充满热情的优秀保研/考研学生。欢迎编程能力较好、有深度学习实践经验、程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学与我联系（发送简历至liyidi@tyut.edu.cn），也欢迎大一/大二的优秀本科生进组学习。</font><br>
 
@@ -86,6 +86,7 @@ Industrial vision, Action recognition, Object tracking
 - 2025.10 - Present: Postdoctoral Researcher, the University of Osaka, Japan
 - 2023.7 - Present: Associate Professor, Taiyuan University of Technology, China
 - 2017.09 - 2023.07: Ph.D. in Computer Science, Peking University, China
+  
 <!-- 
 - 2017.09 - 2023.07: Ph.D. in Computer Science, Peking University, China
 -->
