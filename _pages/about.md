@@ -19,7 +19,7 @@ redirect_from:
 
 # **About Me**
 
-Yidi Li is currently an _Associate Professor_ in the College of Computer Science and Technology at Taiyuan University of Technology (太原理工大学, 计算机科学与技术学院), and the director of the _Multimodal Intelligent Human-Robot Interaction Laboratory (**[多模态智能人机交互实验室](https://rjsci.com/zh/lab/11097-MIHRI)**, MIHRI Lab)_. Since October 2025, she has been a CSC-funded Visiting Scholar at the _[Robotic Manipulation Lab. / Harada Lab.](https://www.roboticmanipulation.org/english/)_, The University of Osaka, Japan. She received her Ph.D. degree in Computer Science and Technology from Peking University under the supervision of ***[Prof. Hong Liu](https://robotics.pkusz.edu.cn)*** in 2023.
+Yidi Li is currently an _Associate Professor_ in the College of Computer Science and Technology at Taiyuan University of Technology (太原理工大学, 计算机科学与技术学院), and the director of the _Multimodal Intelligent Human-Robot Interaction Laboratory (**[多模态智能人机交互实验室](https://rjsci.com/zh/lab/11097-MIHRI)**, MIHRI Lab)_. Since October 2025, she has been a CSC-funded Visiting Scholar at the _[Robotic Manipulation Lab. / Harada Lab.](https://www.roboticmanipulation.org/english/)_, the University of Osaka, Japan. She received her Ph.D. degree in Computer Science and Technology from Peking University under the supervision of ***[Prof. Hong Liu](https://robotics.pkusz.edu.cn)*** in 2023.
 
 Her research focuses on _multimodal embodied intelligence_, _audio-visual perception_, and _human-robot interaction_. Her work aims to enable robots and intelligent agents to perceive, understand, and interact with complex real-world environments by integrating complementary sensory modalities such as vision and audition.
 
@@ -82,11 +82,11 @@ Industrial vision, Action recognition, Object tracking
 
 
 # 💻 Research Experiences
-- 2013.09 - 2017.07: B.Sc. in Statistics, Taiyuan University of Technology, China
-- 2017.09 - 2023.07: Ph.D. in Computer Science, Peking University, China
+- 2025.10 - Present: Postdoctoral Researcher, the University of Osaka, Japan
 - 2023.7 - Present: Associate Professor, Taiyuan University of Technology, China
-- 2025.10 - Present: Postdoctoral Researcher, Osaka University, Japan
-
+- 2017.09 - 2023.07: Ph.D. in Computer Science, Peking University, China
+<!-- 
+- 2017.09 - 2023.07: Ph.D. in Computer Science, Peking University, China
 
 # 📝 Publications 
 - [22] Yihan Li, **Yidi Li**, etc. AVCLNet: Multimodal Multi-Speaker Tracking Network Using Audio-Visual Contrastive Learning, CAAI Transactions on Intelligence Technology (CAAI TRIT), 2025. <font color=red>(SCI Q1-top)</font>
