@@ -98,80 +98,58 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 -->
 
 # 📝 Publications 
-- **Yidi Li**, Yihan Li, etc.  
-  **Global-Local Distillation Network-Based Audio-Visual Speaker Tracking with Incomplete Modalities.**  
-  *Pattern Recognition*, 2026. <font color=red>(SCI Q1-top)</font> 
+- **Yidi Li**, Yihan Li, etc. **Global-Local Distillation Network-Based Audio-Visual Speaker Tracking with Incomplete Modalities.** *Pattern Recognition*, 2026. <font color=red>(SCI Q1-top)</font> 
 
-- Yihan Li, **Yidi Li**\*, etc.  
-  **AVCLNet: Multimodal Multi-Speaker Tracking Network Using Audio-Visual Contrastive Learning.**  
-  *CAAI Transactions on Intelligence Technology*, 2026, 11(1): 238–255. <font color=red>(SCI Q1-top)</font>
+- Yihan Li, **Yidi Li**\*, etc. **AVCLNet: Multimodal Multi-Speaker Tracking Network Using Audio-Visual Contrastive Learning.** *CAAI Transactions on Intelligence Technology*, 2026, 11(1): 238–255. <font color=red>(SCI Q1-top)</font>
 
-- **Yidi Li**, Jiahao Wen, etc.  
-  **PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection.**  
-  *Expert Systems with Applications*, 2025, 281: 127608. <font color=red>(SCI Q1-top)</font>
+- **Yidi Li**, Jiahao Wen, etc. **PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection.** *Expert Systems with Applications*, 2025, 281: 127608. <font color=red>(SCI Q1-top)</font>
 
-- **Yidi Li**, Hong Liu\*, Bing Yang.  
-  **STNet: Deep Audio-Visual Fusion Network for Robust Speaker Tracking.**  
+- **Yidi Li**, Hong Liu\*, Bing Yang. **STNet: Deep Audio-Visual Fusion Network for Robust Speaker Tracking.**  
   *IEEE Transactions on Multimedia*, 2025, 27: 1835–1847. <font color=red>(SCI Q1-top)</font>
 
-- **Yidi Li**, Guoquan Wang\*, etc.  
-  **On-Device Audio-Visual Multi-Person Wake Word Spotting.**  
+- **Yidi Li**, Guoquan Wang\*, etc. **On-Device Audio-Visual Multi-Person Wake Word Spotting.**  
   *CAAI Transactions on Intelligence Technology*, 2023, 8(4): 1578–1589. <font color=red>(SCI Q1-top)</font>
 
-- **Yidi Li**, Jiale Ren\*, etc.  
-  **Audio-Visual Keyword Transformer for Unconstrained Sentence-Level Keyword Spotting.**  
+- **Yidi Li**, Jiale Ren\*, etc. **Audio-Visual Keyword Transformer for Unconstrained Sentence-Level Keyword Spotting.**  
   *CAAI Transactions on Intelligence Technology*, 2023, 9(1): 142–152. <font color=red>(SCI Q1-top)</font>
 
-- **Yidi Li**, Hong Liu\*, Hao Tang.  
-  **Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking.**  
+- **Yidi Li**, Hong Liu\*, Hao Tang. **Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking.**  
   *Proceedings of the AAAI Conference on Artificial Intelligence*, 2022, 36(2): 1456–1463. `CCF A Conference` `Oral`
 
-- Yihan Li, Hao Guo, Zhenhuan Xu, **Yidi Li**\*, Weiwei Wan.  
-  **A Multi-View Fusion Framework for Audio-Visual Multi-Speaker Tracking.**  
+- Yihan Li, Hao Guo, Zhenhuan Xu, **Yidi Li**\*, Weiwei Wan. **A Multi-View Fusion Framework for Audio-Visual Multi-Speaker Tracking.**  
   *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), 2026: 22727–22731. `CCF B`
 
-- Yan Niu, Yiling Wang, Jingyan Li, Wenxi Wang, Mengni Zhou, Jie Xiang, Xin Wen, **Yidi Li**\*.  
-  **Adaptively Weighted Multi-Modal Joint Entropy with Dynamic Allocation and Fault-Tolerant Fusion for Industrial Diagnostics.**  
+- Yan Niu, Yiling Wang, Jingyan Li, Wenxi Wang, Mengni Zhou, Jie Xiang, Xin Wen, **Yidi Li**\*. **Adaptively Weighted Multi-Modal Joint Entropy with Dynamic Allocation and Fault-Tolerant Fusion for Industrial Diagnostics.**  
   *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), 2026: 5476–5480. `CCF B`
 
-- Yan Niu, Wenxi Wang, Yiling Wang, Jianyu Zhi, Luqi Wang, Xin Wen, **Yidi Li**\*.  
-  **A Robust Method for Gear Failure Detection and Severity Estimation Based on Multi-Sensor Physical Feature Fusion and Domain Adaptation.**  
+- Yan Niu, Wenxi Wang, Yiling Wang, Jianyu Zhi, Luqi Wang, Xin Wen, **Yidi Li**\*. **A Robust Method for Gear Failure Detection and Severity Estimation Based on Multi-Sensor Physical Feature Fusion and Domain Adaptation.**  
   *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), 2026: 19877–19881. `CCF B`
 
-- **Yidi Li**, Wenkai Zhao, etc.  
-  **Multi-Stage Multimodal Distillation for Audio-Visual Speaker Tracking.**  
+- **Yidi Li**, Wenkai Zhao, etc. **Multi-Stage Multimodal Distillation for Audio-Visual Speaker Tracking.**  
   *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), 2025. `CCF B`
 
-- Yihan Li, Yi Shi, Chongwei Yan, Hao Guo, Bin Ren, **Yidi Li**\*.  
-  **Robust Multi-View Audio-Visual Speaker Tracking via Bird’s Eye View Representation.**  
+- Yihan Li, Yi Shi, Chongwei Yan, Hao Guo, Bin Ren, **Yidi Li**\*. **Robust Multi-View Audio-Visual Speaker Tracking via Bird’s Eye View Representation.**  
   *Asian Conference on Artificial Intelligence Technology* (ACAIT), 2025. `Best Student Paper Award`
 
-- **Yidi Li**, Kairan Zhang, etc.  
-  **Vision-Guided Acoustic Localization with Decoupled Inference for Moving Speakers.**  
+- **Yidi Li**, Kairan Zhang, etc. **Vision-Guided Acoustic Localization with Decoupled Inference for Moving Speakers.**  
   *International Conference on Intelligent Computing* (ICIC), 2025: 135–146. `CCF C Conference` `Oral`
 
-- Zihao Mi, Jianan Zhang, Xueyu Liu, Guanghui Yue, Junhong Yue, Mingqiang Wei, **Yidi Li**, Yongfei Wu\*.  
-  **Multi-Instance Curriculum Learning for Histopathology Image Classification with Bias Reduction.**  
+- Zihao Mi, Jianan Zhang, Xueyu Liu, Guanghui Yue, Junhong Yue, Mingqiang Wei, **Yidi Li**, Yongfei Wu\*. **Multi-Instance Curriculum Learning for Histopathology Image Classification with Bias Reduction.**  
   *Medical Image Analysis*, 2025, 105: 103647. <font color=red>(SCI Q1-top)</font>
 
-- Xubin Wu, Yan Niu, Xia Li, Jie Xiang\*, **Yidi Li**\*.  
-  **A Prior Causality-Guided Multi-View Diffusion Network for Brain Disorder Classification.**  
+- Xubin Wu, Yan Niu, Xia Li, Jie Xiang\*, **Yidi Li**\*. **A Prior Causality-Guided Multi-View Diffusion Network for Brain Disorder Classification.**  
   *CAAI Transactions on Intelligence Technology*, 2025, 10(6): 1731–1744. <font color=red>(SCI Q1-top)</font>
 
-- Jie Xiang, Ang Zhao, Xia Li, Xubin Wu, Yanqing Dong, Yan Niu, Xin Wen\*, **Yidi Li**\*.  
-  **Enhancing Brain MRI Super-Resolution through Multi-Slice Aware Matching and Fusion.**  
+- Jie Xiang, Ang Zhao, Xia Li, Xubin Wu, Yanqing Dong, Yan Niu, Xin Wen\*, **Yidi Li**\*. **Enhancing Brain MRI Super-Resolution through Multi-Slice Aware Matching and Fusion.**  
   *CAAI Transactions on Intelligence Technology*, 2025: 1411–1421. <font color=red>(SCI Q1-top)</font>
 
-- Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, **Yidi Li**\*, Yongfei Wu\*.  
-  **GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images.**  
+- Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, **Yidi Li**\*, Yongfei Wu\*. **GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images.**  
   *Expert Systems with Applications*, 2025. <font color=red>(SCI Q1-top)</font>
 
-- Tao Wang, Mengyuan Liu\*, Hong Liu\*, Wenhao Li, Miaoju Ban, Tianyu Guo, **Yidi Li**.  
-  **Feature Completion Transformer for Occluded Person Re-Identification.**  
+- Tao Wang, Mengyuan Liu\*, Hong Liu\*, Wenhao Li, Miaoju Ban, Tianyu Guo, **Yidi Li**. **Feature Completion Transformer for Occluded Person Re-Identification.**  
   *IEEE Transactions on Multimedia*, 2024, 26: 8529–8542. <font color=red>(SCI Q1-top)</font>
 
-- Zhenhuan Xu, Yongfei Wu, Liming Zhang, **Yidi Li**\*.  
-  **Adaptive Fourier Decomposition Based Signal Extraction on Weak Electromagnetic Field.**  
+- Zhenhuan Xu, Yongfei Wu, Liming Zhang, **Yidi Li**\*. **Adaptive Fourier Decomposition Based Signal Extraction on Weak Electromagnetic Field.**  
   *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), 2024: 9446–9450. `CCF B`
 
 
