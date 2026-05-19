@@ -69,7 +69,8 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 - 2024.7 🌟Innovation Project for Higher Education Institutions in Shanxi Province approved!
 - 2024.7 📄One ACAIT paper accepted!
 - 2024.5 🌟Youth Project of the Shanxi Province Basic Research Program approved!
-- 2024.4 📄One TMM paper accepted! (🚩SCI Q1 TOP)-->
+- 2024.4 📄One TMM paper accepted! (🚩SCI Q1 TOP)
+-->
 
 # 📜 Research Area
 - **Multi-modal Learning:** 
@@ -87,6 +88,7 @@ Industrial vision, Action recognition, Object tracking
 - 2017.09 - 2023.07: Ph.D. in Computer Science, Peking University, China
 <!-- 
 - 2017.09 - 2023.07: Ph.D. in Computer Science, Peking University, China
+-->
 
 # 📝 Publications 
 - [22] Yihan Li, **Yidi Li**, etc. AVCLNet: Multimodal Multi-Speaker Tracking Network Using Audio-Visual Contrastive Learning, CAAI Transactions on Intelligence Technology (CAAI TRIT), 2025. <font color=red>(SCI Q1-top)</font>
