@@ -111,7 +111,7 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 
 - **Yidi Li**, Jiale Ren\*, etc. **Audio-Visual Keyword Transformer for Unconstrained Sentence-Level Keyword Spotting.** *CAAI Transactions on Intelligence Technology*, 2023, 9(1): 142–152. <font color=red>(SCI Q1-top)</font>
 
-- **Yidi Li**, Hong Liu\*, Hao Tang. **Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking.** *Proceedings of the AAAI Conference on Artificial Intelligence*, 2022, 36(2): 1456–1463. `CCF A Conference` `Oral`
+- **Yidi Li**, Hong Liu\*, Hao Tang. **Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking.** *Proceedings of the AAAI Conference on Artificial Intelligence*, 2022, 36(2): 1456–1463. `CCF A` `Oral`
 
 - Yihan Li, Hao Guo, Zhenhuan Xu, **Yidi Li**\*, Weiwei Wan. **A Multi-View Fusion Framework for Audio-Visual Multi-Speaker Tracking.** *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), 2026: 22727–22731. `CCF B`
 
