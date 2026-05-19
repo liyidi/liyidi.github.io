@@ -98,28 +98,82 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 -->
 
 # 📝 Publications 
-- [22] Yihan Li, **Yidi Li**, etc. AVCLNet: Multimodal Multi-Speaker Tracking Network Using Audio-Visual Contrastive Learning, CAAI Transactions on Intelligence Technology (CAAI TRIT), 2025. <font color=red>(SCI Q1-top)</font>
-- [21] **Yidi Li**, Jiahao Wen, Rui Gong, etc. PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection. Expert Systems With Applications, 2025. <font color=red>(SCI Q1-top)</font>
-- [20] **Yidi Li**, Hong Liu, Bing Yang. STNet: Deep Audio-Visual Fusion Network for Robust Speaker Tracking. IEEE Transactions on Multimedia (**TMM**), 2024. <font color=red>(SCI Q1-top)</font>
-- [19]	**Yidi Li**, Wenkai Zhao, Zeyu Wang, Zhenhuan Xu, Bin Ren, Nicu Sebe. Multi-Stage Multimodal Distillation for Audio-Visual Speaker Tracking, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024.
-- [18]	Jie Xiang, Ang Zhao, Xia Li, Xubin Wu, Yanqing Dong, Yan Niu, **Yidi Li**, Xin Wen, Enhancing Brain MRI Super-Resolution through Multi-Slice Aware Matching and Fusion, CAAI Transactions on Intelligence Technology, 2024.
-- [17] Zihao Mi, Xueyu Liu, Jianan Zhang, Guangze Shi, **Yidi Li**, and Yongfei Wu. Multi-instance Curriculum Learning for Histopathology Image Classifications with Hard Negative Mining and Positive Augmentation. **BIBM**, 2024.<font color=red> (CCF B)</font>
-- [16] Linhui Sun, **Yidi Li**, Xujiao Zhao, Kaiyi Wang, Hao Guo*. Event-RGB Fusion for insulator Defect Detection Based on lmproved YOLOv8. ACAIT, 2024.
-- [15] **Yidi Li**, Kairan Zhang, Chenxu Yang, Sizhou Liu, Hao Guo, Hongfei Zhang. A Synthesis Library Subset Screening Method for High Energy Efficiency Requirements. CWSN, 2024.
-- [14] Tao Wang, Mengyuan Liu, Hong Liu, Wenhao Li, Miaoju Ban, Tianyu Guo and **Yidi Li**. Feature Completion Transformer for Occluded Person Re-identification. IEEE Transactions on Multimedia (**TMM**), 2024. <font color=red>(SCI Q1-top)</font>
-- [13] Zhenhuan Xu, Yongfei Wu, Liming Zhang, **Yidi Li**, Adaptive Fourier Decomposition Based Signal Extraction on Weak Electromagnetic Field, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. <font color=red>(CCF B)</font>
-- [12] Ruijia Fan, Hong Liu, **Yidi Li**, ATTA-NET: Attention Aggregation Network for Audio-Visual Emotion Recognition, Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. <font color=red>(CCF B)</font>
-- [11] **Yidi Li**, Guoquan Wang, Zhan Chen, Hao Tang, and Hong Liu. On-Device Audio-Visual Multi-Person Wake Word Spotting, CAAI Transactions on Intelligence Technology (**CAAI TRIT**), 2023. <font color=red>(JCR Q1)</font>
-- [10] **Yidi Li**, Jiale Ren, Yawei Wang, Xia Li, and Hong Liu. Audio-Visual Keyword Transformer for Unconstrained Sentence-Level Keyword Spotting, CAAI Transactions on Intelligence Technology (**CAAI TRIT**), 2023. <font color=red>(JCR Q1)</font>
-- [9] Guoquan Wang, Hong Liu, Tianyu Guo, Jingwen Guo, Ti Wang, **Yidi Li**. Self-supervised 3D Skeleton Representation Learning with Active Sampling and Adaptive Relabeling for Action Recognition. Proceedings of IEEE International Conference on Image Processing (**ICIP**), 2023. 
-- [8] Xingyue Shi, Hong Liu, Wei Shi, Zihui Zhou, **Yidi Li**. Boosting Person Re-Identification with Viewpoint Contrastive Learning and Adversarial Training. Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023. <font color=red>(CCF B)</font>
-- [7] Wanruo Zhang, Hong Liu, Jianbing Wu, **Yidi Li**. MVSSC: Meta Reinforcement Learning Based Visual lndoor Navication Using Multi-view Semantic Spatial Context, Pattern Recognition Letters (**PRL**). 2023. <font color=red>(CAAI B)</font>
-- [6] Jian Zhang, Ge Yang, Runwei Ding, **Yidi Li**. Cascade RDN: Towards Accurate Localization in Industrial Visual Anomaly Detection with Structural Anomaly Generation, IEEE Robotics and Automation Letters (**RAL**), 2023. <font color=red>(CAAI B)</font>
-- [5] **Yidi Li**, Hong Liu, Hao Tang. Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking, Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**) <font color=red>(Oral)</font>. 2022. <font color=red>(CCF A)</font>
-- [4] Peini Guo, Zhengyan Chen, **Yidi Li**, and Hong Liu. Audio-Visual Fusion Network Based on Conformer for Multimodal Emotion Recognition. Artificial Intelligence (**CICAI**), 2022. <font color=red>(CAAI A)</font>
-- [3] Hong Liu, Yongheng Sun, **Yidi Li**, Bing Yang. 3D Audio-Visual Speaker Tracking with a Novel Particle Filter. Proceedings of International Conference on Pattern Recognition (**ICPR**), 2021.
-- [2] **Yidi Li**, Hong Liu, Bing Yang, Runwei Ding, Yang Chen. Deep Metric Learning-Assisted 3D Audio-Visual Speaker Tracking via Two-Layer Particle Filter. **Complexity**, 2020.
-- [1] Hong Liu, **Yidi Li**, Bing Yang. 3D Audio-Visual Speaker Tracking with a Two-Layer Particle Filter. Proceedings of IEEE International Conference on Image Processing (**ICIP**), 2019. 
+- **Yidi Li**, Yihan Li, etc.  
+  **Global-Local Distillation Network-Based Audio-Visual Speaker Tracking with Incomplete Modalities.**  
+  *Pattern Recognition*, 2026. <font color=red>(SCI Q1-top)</font> 
+
+- Yihan Li, **Yidi Li**\*, etc.  
+  **AVCLNet: Multimodal Multi-Speaker Tracking Network Using Audio-Visual Contrastive Learning.**  
+  *CAAI Transactions on Intelligence Technology*, 2026, 11(1): 238–255. <font color=red>(SCI Q1-top)</font>
+
+- **Yidi Li**, Jiahao Wen, etc.  
+  **PVAFN: Point-Voxel Attention Fusion Network with Multi-Pooling Enhancing for 3D Object Detection.**  
+  *Expert Systems with Applications*, 2025, 281: 127608. <font color=red>(SCI Q1-top)</font>
+
+- **Yidi Li**, Hong Liu\*, Bing Yang.  
+  **STNet: Deep Audio-Visual Fusion Network for Robust Speaker Tracking.**  
+  *IEEE Transactions on Multimedia*, 2025, 27: 1835–1847. <font color=red>(SCI Q1-top)</font>
+
+- **Yidi Li**, Guoquan Wang\*, etc.  
+  **On-Device Audio-Visual Multi-Person Wake Word Spotting.**  
+  *CAAI Transactions on Intelligence Technology*, 2023, 8(4): 1578–1589. <font color=red>(SCI Q1-top)</font>
+
+- **Yidi Li**, Jiale Ren\*, etc.  
+  **Audio-Visual Keyword Transformer for Unconstrained Sentence-Level Keyword Spotting.**  
+  *CAAI Transactions on Intelligence Technology*, 2023, 9(1): 142–152. <font color=red>(SCI Q1-top)</font>
+
+- **Yidi Li**, Hong Liu\*, Hao Tang.  
+  **Multi-Modal Perception Attention Network with Self-Supervised Learning for Audio-Visual Speaker Tracking.**  
+  *Proceedings of the AAAI Conference on Artificial Intelligence*, 2022, 36(2): 1456–1463. `CCF A Conference` `Oral`
+
+- Yihan Li, Hao Guo, Zhenhuan Xu, **Yidi Li**\*, Weiwei Wan.  
+  **A Multi-View Fusion Framework for Audio-Visual Multi-Speaker Tracking.**  
+  *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), 2026: 22727–22731. `CCF B`
+
+- Yan Niu, Yiling Wang, Jingyan Li, Wenxi Wang, Mengni Zhou, Jie Xiang, Xin Wen, **Yidi Li**\*.  
+  **Adaptively Weighted Multi-Modal Joint Entropy with Dynamic Allocation and Fault-Tolerant Fusion for Industrial Diagnostics.**  
+  *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), 2026: 5476–5480. `CCF B`
+
+- Yan Niu, Wenxi Wang, Yiling Wang, Jianyu Zhi, Luqi Wang, Xin Wen, **Yidi Li**\*.  
+  **A Robust Method for Gear Failure Detection and Severity Estimation Based on Multi-Sensor Physical Feature Fusion and Domain Adaptation.**  
+  *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), 2026: 19877–19881. `CCF B`
+
+- **Yidi Li**, Wenkai Zhao, etc.  
+  **Multi-Stage Multimodal Distillation for Audio-Visual Speaker Tracking.**  
+  *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), 2025. `CCF B`
+
+- Yihan Li, Yi Shi, Chongwei Yan, Hao Guo, Bin Ren, **Yidi Li**\*.  
+  **Robust Multi-View Audio-Visual Speaker Tracking via Bird’s Eye View Representation.**  
+  *Asian Conference on Artificial Intelligence Technology* (ACAIT), 2025. `Best Student Paper Award`
+
+- **Yidi Li**, Kairan Zhang, etc.  
+  **Vision-Guided Acoustic Localization with Decoupled Inference for Moving Speakers.**  
+  *International Conference on Intelligent Computing* (ICIC), 2025: 135–146. `CCF C Conference` `Oral`
+
+- Zihao Mi, Jianan Zhang, Xueyu Liu, Guanghui Yue, Junhong Yue, Mingqiang Wei, **Yidi Li**, Yongfei Wu\*.  
+  **Multi-Instance Curriculum Learning for Histopathology Image Classification with Bias Reduction.**  
+  *Medical Image Analysis*, 2025, 105: 103647. <font color=red>(SCI Q1-top)</font>
+
+- Xubin Wu, Yan Niu, Xia Li, Jie Xiang\*, **Yidi Li**\*.  
+  **A Prior Causality-Guided Multi-View Diffusion Network for Brain Disorder Classification.**  
+  *CAAI Transactions on Intelligence Technology*, 2025, 10(6): 1731–1744. <font color=red>(SCI Q1-top)</font>
+
+- Jie Xiang, Ang Zhao, Xia Li, Xubin Wu, Yanqing Dong, Yan Niu, Xin Wen\*, **Yidi Li**\*.  
+  **Enhancing Brain MRI Super-Resolution through Multi-Slice Aware Matching and Fusion.**  
+  *CAAI Transactions on Intelligence Technology*, 2025: 1411–1421. <font color=red>(SCI Q1-top)</font>
+
+- Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, Xuetao Ma, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, **Yidi Li**\*, Yongfei Wu\*.  
+  **GLMKD: Joint Global and Local Mutual Knowledge Distillation for Weakly Supervised Lesion Segmentation in Histopathology Images.**  
+  *Expert Systems with Applications*, 2025. <font color=red>(SCI Q1-top)</font>
+
+- Tao Wang, Mengyuan Liu\*, Hong Liu\*, Wenhao Li, Miaoju Ban, Tianyu Guo, **Yidi Li**.  
+  **Feature Completion Transformer for Occluded Person Re-Identification.**  
+  *IEEE Transactions on Multimedia*, 2024, 26: 8529–8542. <font color=red>(SCI Q1-top)</font>
+
+- Zhenhuan Xu, Yongfei Wu, Liming Zhang, **Yidi Li**\*.  
+  **Adaptive Fourier Decomposition Based Signal Extraction on Weak Electromagnetic Field.**  
+  *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), 2024: 9446–9450. `CCF B`
+
 
 # 🌟 Projects
 - [1] Young Scientists Fund of the National Natural Science Foundation of China, 2024.
