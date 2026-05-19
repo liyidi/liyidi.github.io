@@ -19,12 +19,15 @@ redirect_from:
 
 # **About Me**
 
-Yidi Li is currently an _Associate Professor_ in the College of Computer Science and Technology at Taiyuan University of Technology (太原理工大学, 计算机科学与技术学院), and the director of the _Multimodal Intelligent Human-Robot Interaction Laboratory (**[多模态智能人机交互实验室](https://lab.rjmart.cn/11097/MIHRI)**, MIHRI Lab)_. Prior to that, she received the PhD degree in Computer Science and Technology from Peking University under the supervision of ***[Prof. Hong Liu](https://robotics.pkusz.edu.cn)*** in 2023. She has published more than 30 papers in top international conferences and SCI journals in the field of artificial intelligence. She serves as a reviewer for many important journals and conferences in the field of artificial intelligence, such as CAAI TRIT, PR, AAAI, and ICASSP, etc. She serves as an expert judge for various national-level college student competitions.
+Yidi Li is currently an _Associate Professor_ in the College of Computer Science and Technology at Taiyuan University of Technology (太原理工大学, 计算机科学与技术学院), and the director of the _Multimodal Intelligent Human-Robot Interaction Laboratory (**[多模态智能人机交互实验室](https://rjsci.com/zh/lab/11097-MIHRI)**, MIHRI Lab)_. Since October 2025, she has been a CSC-funded Visiting Scholar at the _[Robotic Manipulation Lab. / Harada Lab.](https://www.roboticmanipulation.org/english/)_, The University of Osaka, Japan. She received her Ph.D. degree in Computer Science and Technology from Peking University under the supervision of ***[Prof. Hong Liu](https://robotics.pkusz.edu.cn)*** in 2023.
 
-Yidi Li's research work centers on audio-visual fusion, and is dedicated to improving the model's adaptability and robustness in complex dynamic scenarios by investigating multimodal heterogeneous data fusion problems, and multimodal multilevel information interaction problems. Her research interests include audio-visual learning, sound source localization, speech recognition, and speaker tracking.
+Her research focuses on _multimodal embodied intelligence_, _audio-visual perception_, and _human-robot interaction_. Her work aims to enable robots and intelligent agents to perceive, understand, and interact with complex real-world environments by integrating complementary sensory modalities such as vision and audition.
+
+Her recent research covers audio-visual speaker tracking, multimodal robust representation learning, incomplete-modality perception, event-RGB fusion, and embodied perception. She has published more than 40 papers in international conferences and SCI journals in artificial intelligence, computer vision, and multimodal learning.
+
 
 # 📣📣 Call for members📣📣
-<span style="color:red;"><strong>***[多模态智能人机交互实验室](https://lab.rjmart.cn/11097/MIHRI)***(MIHRI Lab)现正招收2026、2027年入学的研究生，大一/大二优秀本科生！</strong></span>
+<span style="color:red;"><strong>***[多模态智能人机交互实验室](https://rjsci.com/zh/lab/11097-MIHRI)***(MIHRI Lab)现正招收2026、2027年入学的研究生，大一/大二优秀本科生！</strong></span>
 
 <font color=red>我们寻求对人工智能、机器人技术、计算机视觉等领域充满热情的优秀保研/考研学生。欢迎编程能力较好、有深度学习实践经验、程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学与我联系（发送简历至liyidi@tyut.edu.cn），也欢迎大一/大二的优秀本科生进组学习。</font><br>
 
