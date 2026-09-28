@@ -27,7 +27,7 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 
 
 # 📣📣 Call for members📣📣
-<span style="color:red;"><strong>多模态智能人机交互实验室 (MIHRI Lab) 现正招收2027、2028年入学的硕士研究生、博士研究生，以及大一/大二优秀本科生！</strong></span>
+<span style="color:red;"><strong>***[多模态智能人机交互实验室](https://rjsci.com/zh/lab/11097-MIHRI)***(MIHRI Lab)现正招收2027、2028年入学的硕士研究生、博士研究生，以及大一/大二优秀本科生！</strong></span>
 
 <font color=red>我们欢迎对人工智能、具身智能、机器人技术、计算机视觉、多模态学习等方向充满热情的同学加入。优先考虑编程基础扎实、有深度学习实践经验、程序设计竞赛经历或科研经历，并有志于继续攻读硕士/博士学位或出国深造的同学。</font><br>
 <font color=red><strong>硕士研究生申请：</strong>欢迎计划于2027、2028年入学的保研、考研申请者与我联系，请将个人简历发送至 <strong>liyidi@tyut.edu.cn</strong>。</font><br>
