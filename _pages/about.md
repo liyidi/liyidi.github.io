@@ -30,11 +30,9 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 <span style="color:red;"><strong>多模态智能人机交互实验室 (MIHRI Lab) 现正招收2027、2028年入学的硕士研究生、博士研究生，以及大一/大二优秀本科生！</strong></span>
 
 <font color=red>我们欢迎对人工智能、具身智能、机器人技术、计算机视觉、多模态学习等方向充满热情的同学加入。优先考虑编程基础扎实、有深度学习实践经验、程序设计竞赛经历或科研经历，并有志于继续攻读硕士/博士学位或出国深造的同学。</font><br>
-
-<font color=red><strong>硕士/博士研究生申请：</strong>欢迎计划于2027、2028年入学的保研、考研及博士研究生申请者与我联系，请将个人简历发送至 <strong>liyidi@tyut.edu.cn</strong>。</font><br>
-
-<font color=red><strong>本科生加入：</strong>欢迎大一/大二优秀本科生进入课题组学习、参与科研，请关注 <strong>MIHRI Lab本科生团队（TYUT机器人团队）招新信息</strong>：<a href="http://mihri.drb1n.top/">http://mihri.drb1n.top/</a></font><br>
-
+<font color=red><strong>硕士研究生申请：</strong>欢迎计划于2027、2028年入学的保研、考研申请者与我联系，请将个人简历发送至 <strong>liyidi@tyut.edu.cn</strong>。</font><br>
+<font color=red><strong>博士研究生申请：</strong>课题组拟招收2027年入学博士研究生，欢迎对具身智能、多模态学习、计算机视觉、机器人技术等方向具有浓厚兴趣的同学申请。申请者应具有计算机、人工智能、电子信息等相关专业背景，具备较扎实的编程与科研基础，以及良好的英文文献阅读和论文写作能力；具有深度学习、计算机视觉、多模态学习或机器人相关科研经历，并有高水平论文发表或科研项目经历者优先。有意申请者请将个人简历及相关科研材料发送至 <strong>liyidi@tyut.edu.cn</strong>。</font><br>
+<font color=red><strong>本科生申请：</strong>欢迎大一/大二优秀本科生进入课题组学习、参与科研，请关注 <strong>MIHRI Lab本科生团队（TYUT机器人团队）招新信息</strong>：<a href="http://mihri.drb1n.top/">http://mihri.drb1n.top/</a></font><br>
 <span style="color:red;"><strong>MIHRI Lab将为成员提供：</strong></span><br>
 - <font color=red>前沿研究：参与丰富的前沿研究课题。</font>
 - <font color=red>学术交流：参加国内/国际会议，拓展学术视野。</font>
