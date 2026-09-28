@@ -33,17 +33,13 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 
 <font color=red><strong>硕士/博士研究生申请：</strong>欢迎计划于2027、2028年入学的保研、考研及博士研究生申请者与我联系，请将个人简历发送至 <strong>liyidi@tyut.edu.cn</strong>。</font><br>
 
-<font color=red><strong>本科生加入：</strong>欢迎大一/大二优秀本科生进入课题组学习、参与科研，请关注 <strong>MIHRI Lab本科生团队招新信息</strong>：<a href="http://mihri.drb1n.top/">http://mihri.drb1n.top/</a></font><br>
+<font color=red><strong>本科生加入：</strong>欢迎大一/大二优秀本科生进入课题组学习、参与科研，请关注 <strong>MIHRI Lab本科生团队（TYUT机器人团队）招新信息</strong>：<a href="http://mihri.drb1n.top/">http://mihri.drb1n.top/</a></font><br>
 
 <span style="color:red;"><strong>MIHRI Lab将为成员提供：</strong></span><br>
-
-<font color=red>前沿研究：参与丰富的前沿研究课题。</font>
-
-<font color=red>学术交流：参加国内/国际会议，拓展学术视野。</font>
-
-<font color=red>国际合作：海外知名高校合作专家联合指导。</font>
-
-<font color=red>学习访问：优秀学生可推荐至国内外知名院校交流、学习和访学。</font>
+- <font color=red>前沿研究：参与丰富的前沿研究课题。</font>
+- <font color=red>学术交流：参加国内/国际会议，拓展学术视野。</font>
+- <font color=red>国际合作：海外知名高校合作专家联合指导。</font>
+- <font color=red>学习访问：优秀学生可推荐至国内外知名院校交流、学习和访学。</font>
   
 # 🥳 News
 - 2026.05 📄 One paper accepted by **Pattern Recognition**! <font color=red>(SCI Q1-top)</font>
