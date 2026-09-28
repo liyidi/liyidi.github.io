@@ -27,16 +27,23 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 
 
 # 📣📣 Call for members📣📣
-<span style="color:red;"><strong>***[多模态智能人机交互实验室](https://rjsci.com/zh/lab/11097-MIHRI)***(MIHRI Lab)现正招收2027、2028年入学的研究生，大一/大二优秀本科生！</strong></span>
+<span style="color:red;"><strong>多模态智能人机交互实验室 (MIHRI Lab) 现正招收2027、2028年入学的硕士研究生、博士研究生，以及大一/大二优秀本科生！</strong></span>
 
-<font color=red>我们寻求对人工智能、机器人技术、计算机视觉等领域充满热情的优秀保研/考研学生。欢迎编程能力较好、有深度学习实践经验、程序设计竞赛或者科研经历，有志于攻读硕士/博士研究生和出国深造的同学与我联系（发送简历至liyidi@tyut.edu.cn），也欢迎大一/大二的优秀本科生进组学习。</font><br>
+<font color=red>我们欢迎对人工智能、具身智能、机器人技术、计算机视觉、多模态学习等方向充满热情的同学加入。优先考虑编程基础扎实、有深度学习实践经验、程序设计竞赛经历或科研经历，并有志于继续攻读硕士/博士学位或出国深造的同学。</font><br>
+
+<font color=red><strong>硕士/博士研究生申请：</strong>欢迎计划于2027、2028年入学的保研、考研及博士研究生申请者与我联系，请将个人简历发送至 <strong>liyidi@tyut.edu.cn</strong>。</font><br>
+
+<font color=red><strong>本科生加入：</strong>欢迎大一/大二优秀本科生进入课题组学习、参与科研，请关注 <strong>MIHRI Lab本科生团队招新信息</strong>：<a href="http://mihri.drb1n.top/">http://mihri.drb1n.top/</a></font><br>
 
 <span style="color:red;"><strong>MIHRI Lab将为成员提供：</strong></span><br>
 
-- <font color=red>前沿研究：参与丰富的前沿研究课题。</font>
-- <font color=red>学术交流：参加国内/国际会议，扩展学术视野。</font>
-- <font color=red>国际合作：海外名校合作专家联合指导。</font>
-- <font color=red>学习访问：优秀学生可推荐至国内外知名院校学习访学。</font>
+<font color=red>前沿研究：参与丰富的前沿研究课题。</font>
+
+<font color=red>学术交流：参加国内/国际会议，拓展学术视野。</font>
+
+<font color=red>国际合作：海外知名高校合作专家联合指导。</font>
+
+<font color=red>学习访问：优秀学生可推荐至国内外知名院校交流、学习和访学。</font>
   
 # 🥳 News
 - 2026.05 📄 One paper accepted by **Pattern Recognition**! <font color=red>(SCI Q1-top)</font>
