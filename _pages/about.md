@@ -35,7 +35,7 @@ Her recent research covers audio-visual speaker tracking, multimodal robust repr
 
 <font color=red><strong>硕士研究生申请：</strong>欢迎计划于2027、2028年入学的保研、考研申请者与我联系，请将个人简历发送至 <strong>liyidi@tyut.edu.cn</strong>。</font>
 
-<font color=red><strong>本科生申请：</strong>欢迎大一/大二优秀本科生进入课题组学习、参与科研，请关注[课题组本科生团队（TYUT机器人团队）招新信息](http://mihri.drb1n.top/)。</font>
+<font color=red><strong>本科生申请：</strong>欢迎大一/大二优秀本科生进入课题组学习、参与科研，请关注[课题组本科生团队（TYUT机器人团队）](http://mihri.drb1n.top/)招新信息。</font>
 
 <span style="color:red;"><strong>MIHRI Lab将为成员提供：</strong></span><br>
 - <font color=red>前沿研究：参与丰富的前沿研究课题。</font>
